@@ -1,452 +1,1826 @@
 [
   {
+    "id": 1,
+    "n": 2,
+    "c": 1,
+    "t": "O Brasil tem 11500 obras paralisadas atualmente",
+    "v": "O número confere. O TCU contabilizou 11.469 obras paralisadas entre 22.621 mapeadas com recursos federais (50,7%), em levantamento com dados até abril de 2025, divulgado em 30/07/2025. O diagnóstico anterior do TCU (dezembro de 2024) apontava 11.941, ou 52% das contratações vigentes. Ressalva: é o levantamento mais recente que localizamos, de 2025, e se refere a obras financiadas com recursos federais, muitas executadas por estados e municípios.",
+    "s": [
+      "https://portal.tcu.gov.br/imprensa/noticias/metade-das-obras-financiadas-com-recursos-federais-estao-paradas",
+      "https://portal.tcu.gov.br/imprensa/noticias/diagnostico-do-tcu-mostra-que-metade-das-obras-contratadas-com-recursos-federais-estao-paralisadas.htm"
+    ]
+  },
+  {
+    "id": 2,
     "n": 2,
     "c": 3,
-    "t": "O Brasil tem 11500 obras paralisadas atualmente",
-    "v": "Sim, os relatórios mais recentes do Tribunal de Contas da União (TCU) indicam que o número de obras públicas paradas no país gira em torno de 11,5 mil a quase 12 mil contratos. No entanto, atribuir a responsabilidade exclusivamente ao Governo Federal é incorreto: a maioria esmagadora dessas intervenções é executada por municípios e estados via convênios, e as causas vão desde falhas técnicas e abandono de empresas até burocracias de licenciamento e repasses orçamentários."
-  },
-  {
-    "n": 2,
-    "c": 2,
     "t": "Sou a favor da tarifa zero aos finais de semana",
-    "v": "Flávio Bolsonaro (PL) criticou e se opôs à proposta do presidente Luiz Inácio Lula da Silva (PT) de implementar a tarifa zero no transporte público aos fins de semana"
+    "v": "No debate da Globo (23/10/2026), questionado por Lula, Flávio Bolsonaro disse: \"Eu sou a favor da tarifa zero para os ônibus nos fins de semana\", acrescentando que o trabalhador \"merece\" transporte gratuito. Em seguida, associou o tema ao poder de compra, afirmando que de nada adianta o governo dar com uma mão e tirar com \"nove dedos\", frase pela qual depois pediu desculpas. Em 15/10, horas depois de Lula anunciar a proposta (PEC enviada ao Congresso em 21/10), Flávio ironizou a medida em live no YouTube, dizendo que Lula \"está prometendo tudo que ele não vai entregar\" e que \"a picanha tá vindo de ônibus\". A declaração de apoio ocorreu, mas contrasta com a crítica feita oito dias antes.",
+    "s": [
+      "https://timesbrasil.com.br/eleicoes-2026/lula-cobra-apoio-ao-passe-livre-e-flavio-concorda/",
+      "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-promete-tarifa-zero-e-ironiza-nove-dedos-de-lula",
+      "https://www.terra.com.br/noticias/eleicoes/no-debate-flavio-bolsonaro-diz-apoiar-tarifa-zero-apos-ironizar-proposta-de-lula-oito-dias-antes,0314e7974559ba4dc83fe5738c8ec9b163et96rm.html",
+      "https://www.poder360.com.br/poder-eleicoes-2026/a-picanha-ta-vindo-de-onibus-diz-flavio-apos-lula-prometer-passe-livre/",
+      "https://www.poder360.com.br/poder-governo/lula-envia-pec-para-transporte-gratuito-ao-congresso/"
+    ]
   },
   {
+    "id": 3,
     "n": 2,
     "c": 2,
     "t": "O brasileiro perdeu poder de compra nos últimos 4 anos",
-    "v": "Não, o brasileiro não perdeu poder de compra nos últimos quatro anos (2022-2026): o rendimento médio real do trabalho subiu de cerca de R$ 3.100-3.300 em 2022 para cerca de R$ 3.777 em meados de 2026 (PNAD Contínua/IBGE), o salário mínimo avançou de R$ 1.212 para R$ 1.621 com ganhos reais acima da inflação, e o mínimo compra mais cestas básicas hoje do que em 2022 (ex.: 1,8 vs. 1,62 em São Paulo), enquanto a inflação (IPCA) desacelerou após os picos de 2021-2022, embora o poder de compra de alimentos ainda esteja abaixo dos níveis pré-pandemia em algumas medições."
+    "v": "A evidência não sustenta que o brasileiro em geral tenha perdido poder de compra. Segundo a PNAD Contínua, o rendimento médio real habitual foi de R$ 3.777 no trimestre até agosto de 2026 (alta de 3,7% em 12 meses), e a média de 2025 (R$ 3.560) foi recorde, com alta de 5,7%; em 2022 o rendimento do trabalho havia caído 2,1%. O salário mínimo foi de R$ 1.212 (2022) para R$ 1.621 (2026), +34% nominal, acima da inflação acumulada no período (IPCA próximo de 21% em 2022-2025). Ressalvas: o IPCA em 12 meses chegou a 4,58% em setembro de 2026 e o endividamento das famílias subiu levemente (49,1% para 49,9% da renda); o piso de R$ 600 do Bolsa Família compra menos que em 2022.",
+    "s": [
+      "https://www.acessa.com/economia/2026/09/341214-taxa-de-desemprego-fica-em-53-no-trimestre-ate-agosto-revela-ibge.html",
+      "https://acritica.net/economia/alario-medio-trabalhador-brasil-recorde-primeiro-trimestre-2026/",
+      "https://oespecialista.safra.com.br/pnad-continua-2022-ibge/",
+      "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+      "https://rankia.com.br/ipca-setembro-2026-0-82-12-meses-4-58-acima-teto-meta/",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
+    "id": 4,
     "n": 1,
     "c": 2,
     "t": "Flavio bolsonaro pediu que Trump taxasse o Brasil",
-    "v": "Flávio Bolsonaro (PL) afirmou ter pedido pessoalmente ao governo de Donald Trump que não impusesse tarifas sobre produtos e empresas do Brasil."
+    "v": "Não há registro de que Flávio tenha pedido a Trump que taxasse o Brasil. Em 02/06/2026 ele disse à Rádio Itatiaia que pediu 'expressamente' a Trump que não aplicasse tarifas às empresas brasileiras, e em julho participou de audiência do USTR em Washington pedindo suspensão ou adiamento da sobretaxa de 25%, que o USTR oficializou em 15/07/2026. A acusação de Lula se apoia no papel da família Bolsonaro no tarifaço (Eduardo atuou junto a autoridades americanas, e a pesquisa Quaest de junho mostrou 47% concordando com Lula), mas não em um pedido de Flávio por tarifas. Críticos o acusam de agir de forma oportunista, e a versão dele também não foi confirmada de forma independente.",
+    "s": [
+      "https://jornaldebrasilia.com.br/noticias/politica-e-poder/flavio-bolsonaro-diz-que-pediu-a-trump-que-evitasse-novo-tarifaco-mas-que-proposta-e-retaliacao-a-lula/",
+      "https://www.folhape.com.br/economia/lula-e-flavio-testam-argumentos-sobre-tarifaco-em-previa-de-embate-da/499066/",
+      "https://www.cartacapital.com.br/politica/apos-agir-pelo-tarifaco-flavio-bolsonaro-culpa-lula-por-sobretaxa/"
+    ]
   },
   {
+    "id": 5,
     "n": 2,
     "c": 3,
     "t": "Lula chamou o agro negócio de fascista",
-    "v": "Em entrevista ao Jornal Nacional, em 25/08/2022, Lula utilizou a expressão 'agronegócio fascista e direitista' para se referir ao agro que não defende preservação ambiental mesmo que em seu governo, no Plano Safra 2024/2025, Lula tenha destinado impressionantes R$ 476 bilhões ao setor, somando os recursos para grandes produtores e agricultura familiar — o maior montante já registrado na história do programa."
+    "v": "Lula usou a expressão no Jornal Nacional de 25/08/2022, mas se referiu a uma parte do agronegócio, os empresários que não protegem o meio ambiente ('agronegócio fascista e direitista'), e ressalvou que há empresários 'sérios' que não querem desmatar. Em 2023, segundo requerimento na Câmara, ele também chamou organizadores da Agrishow de 'fascistas e negacionistas'. Generalizar para 'o agro' é impreciso. Sobre o Plano Safra 2024/25, o total foi de R$ 476,6 bi (R$ 400,59 bi para a agricultura empresarial e R$ 76 bi para a familiar), recorde na época, mas superado depois (R$ 516,2 bi empresarial em 2025/26 e R$ 525,1 bi em 2026/27).",
+    "s": [
+      "https://www.aosfatos.org/noticias/posts-distorcem-fala-de-lula-ao-jn-sobre-setor-fascista-do-agronegocio/",
+      "https://www.poder360.com.br/eleicoes/parte-do-agronegocio-e-fascista-e-direitista-diz-lula/",
+      "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2272957&filename=Tramitacao-1-REQ-216-2023-CFFC",
+      "https://www.novacana.com/noticias/brasil-plano-safra-recorde-r-476-6-bilhoes-reduz-ritmo-aumento-recursos-040724",
+      "https://tribunadosertao.com.br/geral/2026/06/30/931189-governo-federal-lanca-plano-safra-20262027-com-r-5251-bilhoes"
+    ]
   },
   {
+    "id": 6,
     "n": 2,
     "c": 1,
     "t": "MBA em Empreendedorismo e Desenvolvimento de Novos Negócios",
     "v": "Em agosto de 2026, divulgou publicamente seu certificado. Ressalva: Uma informação anterior sobre suposta pós-graduação em Ciências Políticas pela UFRJ foi desmentida pela universidade. Trata-se de outra formação, não do MBA mencionado no debate."
   },
   {
+    "id": 7,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "O Lula gastou 400 bilhões para se reeleger",
-    "v": "O valor correto foi de 269bi"
+    "v": "O número de R$ 400 bi não confere com a medição mais próxima. O Gastômetro do Estadão, que soma crédito, subsídios, benefícios sociais, renúncias e gastos fora do Orçamento do terceiro mandato, chegou a R$ 354 bi em 14/10/2026 (houve leituras anteriores menores, como R$ 269 bi, R$ 278 bi e R$ 327 bi). O total mistura dinheiro efetivamente gasto com linhas de crédito que podem não ser usadas, e a Secom contesta a metodologia. O Globo chegou a pelo menos R$ 260 bi em 2026 com outro critério. 'Para tentar se reeleger' é opinião.",
+    "s": [
+      "https://timesbrasil.com.br/eleicoes-2026/custo-fiscal-beneficios-anunciados-por-lula-de-olho-na-reeleicao-chegam-a-r-354-bilhoes/",
+      "https://www.brasilparalelo.com.br/noticias/gastometro-do-governo-lula-chega-a-r-354-bilhoes",
+      "https://agorarn.com.br/coluna/gastometro-de-lula-chega-a-r-327-bi/"
+    ]
   },
   {
+    "id": 8,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "A esquerda governou a Argentina por 20 anos",
-    "v": "A afirmação de que a esquerda governou a Argentina por 20 anos ignora o mandato de Mauricio Macri, presidente de centro-direita. Na história recente do país (no recorte de 2003 a 2023), o espectro político de centro-esquerda, representado pelo Kirchnerismo e pelo peronismo, esteve no poder por 16 anos, e não de forma ininterrupta."
+    "v": "A conta de Flávio exagera. De 2003 a 2023, governos kirchneristas/peronistas ocuparam a Presidência por cerca de 16 anos: Néstor e Cristina Kirchner (2003-2015) e Alberto Fernández (2019-2023). No intervalo esteve Mauricio Macri (PRO, centro-direita), de 10/12/2015 a 10/12/2019. Ou seja, o período não foi contínuo e não chega a 20 anos de governo de esquerda.",
+    "s": [
+      "https://en.wikipedia.org/wiki/Mauricio_Macri",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
+    "id": 9,
     "n": 2,
     "c": 2,
     "t": "O governo Lula virou as costas para as tragedias de 2024 do Rio Grande do Sul",
     "v": "A afirmação é falsa: diante das enchentes históricas que atingiram o Rio Grande do Sul em maio de 2024, o governo federal executou uma das maiores mobilizações orçamentárias e logísticas de resposta a desastres da história do país. A atuação incluiu a criação de uma secretaria extraordinária para apoiar o estado, o envio imediato das Forças Armadas e da Força Nacional do SUS para resgates, a suspensão do pagamento e abatimento dos juros da dívida do estado com a União, além da liberação de pacotes que ultrapassaram R$ 100 bilhões entre socorro a fundo perdido, crédito subsidiado a empresas e produtores e programas diretos como o Auxílio Reconstrução (R$ 5,1 mil para mais de 430 mil famílias) e o Minha Casa, Minha Vida para desabrigados. Embora tenham ocorrido gargalos burocráticos e cobranças de empresários e prefeituras quanto ao ritmo de chegada de certos financiamentos e obras estruturais, os dados oficiais demonstram que a União não omitiu apoio nem virou as costas à população gaúcha."
   },
   {
+    "id": 10,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "Lula está morando no palácio de luxo",
-    "v": "O presidente Luiz Inácio Lula da Silva reside no Palácio da Alvorada, que é a residência oficial dos chefes de Estado do Brasil. O Alvorada é um patrimônio público e histórico da União, inaugurado em 1958 durante o governo de Juscelino Kubitschek. Ele não pertence a nenhum presidente em caráter pessoal: trata-se do mesmo local onde moraram praticamente todos os ex-presidentes da República, incluindo Jair Bolsonaro, que viveu no palácio com sua família de 2019 a 2022 durante todo o seu mandato."
+    "v": "Lula mora, de fato, no Palácio da Alvorada, mas não por escolha pessoal: é a residência oficial da Presidência, inaugurada em 30/06/1958 no governo Juscelino Kubitschek e bem público tombado. Lula passou a dormir lá em janeiro de 2023, após reformas, e Jair Bolsonaro também viveu no palácio entre 2019 e 2022. A maioria dos presidentes desde Brasília usou o Alvorada; Michel Temer foi exceção e voltou ao Palácio do Jaburu em 2017. Que o palácio seja 'de luxo' é caracterização subjetiva; em julho de 2026 o próprio Lula o chamou de 'desumano' para morar, por causa do tamanho.",
+    "s": [
+      "https://istoe.com.br/lula-e-janja-ja-estao-morando-no-palacio-do-alvorada",
+      "https://www.folhape.com.br/noticias/lula-diz-que-palacio-da-alvorada-e-desumano-para-morar/503885/",
+      "https://www.jornalopcao.com.br/ultimas-noticias/apos-fazer-reforma-no-alvorada-temer-volta-morar-no-palacio-jaburu-88455/",
+      "https://en.wikipedia.org/wiki/Pal%C3%A1cio_da_Alvorada",
+      "https://rr.pt/noticia/mundo/2023/01/06/janelas-partidas-infiltracoes-e-quadros-desaparecidos-como-bolsonaro-deixou-o-palacio-da-alvorada/314810/"
+    ]
   },
   {
+    "id": 11,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "A transamazonica não é asfaltada por conta de interferências de órgãos ambientais",
-    "v": "Não, a atuação dos órgãos ambientais não é o único e nem o principal motivo pelo qual a Rodovia Transamazônica (BR-230) não é totalmente asfaltada. A falta de pavimentação completa decorre de uma combinação complexa de desafios técnicos, geográficos, financeiros e de planejamento, que persistem desde a sua construção na década de 1970"
+    "v": "A Transamazônica (BR-230) não está toda asfaltada por um conjunto de fatores, e os órgãos ambientais não são o único nem o principal. A rodovia, com cerca de 4.260 km construídos, foi aberta em 1970-72 com grandes trechos em terra no Pará e no Amazonas, e a pavimentação só foi retomada em 2019. O licenciamento ambiental é, sim, uma etapa exigida hoje: em junho de 2026 o Ministério dos Transportes assinou aviso de edital para pavimentar 125 km entre Uruará, Placas e Rurópolis (cerca de R$ 1 bilhão) e disse que o passo seguinte é o licenciamento do trecho Medicilândia–Uruará. Mas a dimensão da obra, o orçamento e a prioridade política também pesam, e não encontrei fonte que atribua a ausência de asfalto principalmente aos órgãos ambientais.",
+    "s": [
+      "https://www.gov.br/transportes/pt-br/assuntos/noticias/2026/06/ministro-dos-transportes-assina-aviso-de-edital-para-a-br-230-pa-e-a-transamazonica-avanca",
+      "https://pt.wikipedia.org/wiki/Rodovia_Transamaz%C3%B4nica",
+      "https://www.liberalamazon.com/infraestrutura/news/apos-mais-de-50-anos-transamazonica-segue-inacabada"
+    ]
   },
   {
+    "id": 12,
     "n": 2,
     "c": 3,
     "t": "Eu vou ampliar a zona franca de Manaus",
-    "v": "Durante a votação da Reforma Tributária em 2023, Flávio apresentou emendas para limitar as vantagens constitucionais concedidas à região amazônica — alegando na ocasião o risco de \"migração predatória\" de empresas do restante do país para Manaus gerando desemprego em outros estados —, além de ter apoiado publicamente as medidas do governo Jair Bolsonaro (como os decretos que cortaram o IPI nacional em até 35%, decisão que desidratava os incentivos da ZFM e que acabou travada pelo STF). Fontes: Amazonas Atual – Contrário à ZFM, Flávio Bolsonaro diz em Manaus que a Zona Franca é 'sagrada' | Revista Fórum – Flávio pediu retirada de benefícios da Zona Franca e agora chama modelo de sagrado | Rios de Notícias - Em Manaus, Flávio promete atrair investimentos e fortalecer ZFM"
+    "v": "A frase é uma promessa de campanha, ainda não verificável, e o histórico de Flávio é ambíguo. Em 07/11/2023, na CCJ do Senado, durante a reforma tributária, ele criticou a proteção ampliada à Zona Franca de Manaus 'em detrimento de todo o Brasil', disse que Manaus viraria o 'novo Vale do Silício' e o resto do país uma 'Argentina', e votou contra o texto-base (aprovado por 20 a 6), depois de o relator rejeitar sua emenda sobre royalties do petróleo. Em março de 2022 ele havia defendido o corte de até 25% do IPI do governo Jair Bolsonaro. Na campanha de 2026, em Manaus, passou a defender o modelo, mas as reportagens consultadas não registram compromisso concreto de ampliá-lo.",
+    "s": [
+      "https://bncamazonas.com.br/poder/flavio-bolsonaro-ataca-zfm-votacao-ccj-senado/",
+      "https://agenciacenarium.com.br/flavio-visita-honda-em-manaus-apos-criticas-a-vantagens-da-zona-franca/",
+      "https://revistacenarium.com.br/indicado-por-bolsonaro-a-presidencia-flavio-atacou-zona-franca-de-manaus/"
+    ]
   },
   {
-    "n": 1,
-    "c": 1,
-    "t": "A economia verde pode trazer mais dinheiro que criar gado ou plantar café",
-    "v": "Sim, a economia verde já consegue superar o faturamento da pecuária convencional e das culturas tradicionais em vários cenários rurais do Brasil. A grande mudança está no fato de que atividades sustentáveis deixaram de ser apenas 'preservação' e se transformaram em negócios de alto rendimento."
-  },
-  {
+    "id": 13,
     "n": 1,
     "c": 3,
-    "t": "A Transposição do Rio São Francisco é a maior obra de infraestrutura hídrica do mundo",
-    "v": "A Transposição do Rio São Francisco (Projeto de Integração do Rio São Francisco - PISF) é considerada a maior obra de infraestrutura hídrica do Brasil e uma das maiores do mundo, mas não é a maior obra de engenharia do planeta em termos globais."
+    "t": "A economia verde pode trazer mais dinheiro que criar gado ou plantar café",
+    "v": "A afirmação é plausível em casos específicos, mas não vale em geral. Estudo do Climate Policy Initiative/PUC-Rio (set/2023) estima que, com carbono a mais de US$ 20 por tonelada, restaurar a floresta por regeneração natural seria mais rentável que a pecuária em praticamente toda a Amazônia brasileira. Artigo de Carlos Nobre e colegas (2023) cita rendas de US$ 300 a 700 por hectare/ano em sistemas agroflorestais, contra US$ 50 a 100 da pecuária extensiva, mas sem identificar as pesquisas de origem. São resultados de modelo ou de potencial, dependentes de preço do carbono e mercado, e não encontrei comparação com a lavoura de café.",
+    "s": [
+      "https://www.climatepolicyinitiative.org/pt-br/publication/carbono-e-o-destino-da-amazonia/",
+      "https://ihu.unisinos.br/635689-sociobioeconomia-de-floresta-em-pe-mais-que-preservacao-uma-solucao-economica-viavel-para-desenvolvimento-da-amazonia"
+    ]
   },
   {
+    "id": 14,
+    "n": 1,
+    "c": 2,
+    "t": "A Transposição do Rio São Francisco é a maior obra de infraestrutura hídrica do mundo",
+    "v": "A transposição do São Francisco (PISF) é a maior obra hídrica do Brasil, mas não do mundo. O Ministério da Integração e do Desenvolvimento Regional descreve o PISF como 'o maior empreendimento hídrico do Brasil' e, em dezembro de 2025, chamou o Projeto Sul-Norte, da China, de 'o maior sistema de transferência hídrica do planeta'. Os dois eixos do PISF somam 477 km de canais (Norte 260 km, Leste 217 km).",
+    "s": [
+      "https://www.gov.br/mdr/pt-br/noticias/midr-visita-maior-projeto-de-seguranca-hidrica-do-mundo-e-amplia-cooperacao-tecnica-com-a-china",
+      "https://www.gov.br/mdr/pt-br/noticias/eixos-norte-e-leste-da-transposicao-do-sao-francisco-levam-agua-a-mais-de-12-milhoes-de-nordestinos"
+    ]
+  },
+  {
+    "id": 15,
     "n": 1,
     "c": 1,
     "t": "Ministro de meio ambiente dos Bolsonaro dizia que ia abrir a porteira…",
     "v": "O ex-ministro do Meio Ambiente era Ricardo Salles, que ficou conhecido pela frase 'ir passando a boiada' dita em uma reunião ministerial em 22 de abril de 2020. Na reunião gravada e divulgada por decisão do Supremo Tribunal Federal (STF), ele defendeu aproveitar o foco da imprensa na pandemia de COVID-19 para 'ir passando a boiada e mudando todo o regramento e simplificando normas' ambientais."
   },
   {
+    "id": 16,
     "n": 1,
-    "c": 1,
+    "c": 3,
     "t": "O Ceará é o estado que mais aprova para o ITA",
-    "v": "Sim, o Ceará é um dos maiores destaques e frequentemente lidera ou concentra a maior proporção de aprovados no vestibular do Instituto Tecnológico de Aeronáutica (ITA)."
+    "v": "Parcialmente correto. Pelos dados divulgados, que contam o local onde a prova foi feita e não o estado de origem do aluno, Fortaleza liderou os aprovados para a etapa final em 2025 (73 de 180, contra 61 de São José dos Campos) e na 1ª fase do vestibular de 2027 (281 de 792). Na etapa final de 2026, porém, São José dos Campos teve 65 e Fortaleza 63. O MEC informa que cerca de 40% dos aprovados de 2026 fizeram a prova no Nordeste, mas não publica ranking por estado. O campus do ITA em Fortaleza ainda está em obras e deve receber alunos em 2027.",
+    "s": [
+      "https://diariodonordeste.verdesmares.com.br/ceara/ceara-conquista-73-das-180-vagas-no-vestibular-do-ita-veja-lista-de-aprovados-para-a-3-fase-1.3596305",
+      "https://abcdoabc.com.br/ita-divulga-aprovados/",
+      "https://mais.opovo.com.br/jornal/cidades/2026/10/20/fortaleza-e-a-cidade-com-mais-aprovados-na-primeira-fase-do-ita-2027.html",
+      "https://www.gov.br/mec/pt-br/ita-ce/perfil-dos-estudantes"
+    ]
   },
   {
+    "id": 17,
     "n": 1,
-    "c": 1,
+    "c": 3,
     "t": "Levou super computador para o Rio Grande do Norte",
-    "v": "Lula possibilitou a implantação de supercomputador de R$ 1 bilhão no RN para processamento de dados e IA."
+    "v": "O supercomputador de IA do governo federal está previsto para Macaíba (RN), na Grande Natal, no Parque Científico e Tecnológico Augusto Severo, e foi anunciado por Lula em 20/08/2026. O investimento é de cerca de R$ 1 bilhão (aviso de seleção de R$ 959 milhões, com custo total estimado em R$ 1,06 bilhão), com recursos do FNDCT. Porém, em 20/08/2026 a FACC apenas publicou o Aviso de Seleção Pública nº 27/2026 para escolher o fornecedor: a máquina ainda não foi contratada nem instalada. Dizer que Lula 'levou' o supercomputador ao RN é, portanto, impreciso: há projeto e recurso, não equipamento entregue.",
+    "s": [
+      "https://www.gov.br/lncc/pt-br/assuntos/noticias/ultimas-noticias-1/lncc-conduz-implantacao-de-supercomputador-de-inteligencia-artificial-que-ampliara-a-capacidade-computacional-do-brasil",
+      "https://economicnewsbrasil.com.br/2026/08/22/supercomputador-brasileiro-ia-santos-dumont/",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
+    "id": 18,
     "n": 1,
     "c": 1,
-    "t": "Eu brought a indústria automobilística para o nordeste",
-    "v": "As gestões do PT foram decisivas para consolidar, expandir e renovar esse parque industrial: em 2010, o governo Lula articulou com o então governador Eduardo Campos a atração do complexo da Fiat/Jeep (atual Stellantis) em Goiana (Pernambuco), prorrogou incentivos fiscais do setor e, mais recentemente no terceiro mandato, participou ativamente das negociações para atrair a chinesa BYD para assumir e eletrificar a antiga planta desativada pela Ford na Bahia."
+    "t": "Eu trouxe a indústria automobilística para o Nordeste",
+    "v": "Procede nos casos citados. A Fiat anunciou em dezembro de 2010, com Lula presente, a fábrica em Pernambuco (hoje o polo Jeep/Stellantis em Goiana), inaugurada por Dilma em 2015 com financiamento do BNDES (R$ 3,27 bilhões). Lula esteve na inauguração da fábrica da BYD em Camaçari (BA), em 09/10/2025, e na entrada em operação do polo automotivo de Horizonte (CE), em 03/12/2025 (montagem de elétricos da GM). Ressalva: a fábrica de Goiana foi inaugurada no governo Dilma, e as unidades da Bahia e do Ceará, no terceiro mandato de Lula.",
+    "s": [
+      "https://www.autoo.com.br/fiat-confirma-nova-fabrica-em-pernambuco/",
+      "http://www.ba.gov.br/comunicacao/noticias/2025-10/374716/energia-limpa-e-emprego-bahia-assume-protagonismo-nacional-na-producao-de",
+      "https://www.opovo.com.br/noticias/economia/2025/12/03/lula-inaugura-hoje-a-planta-automotiva-do-ceara-em-horizonte.html",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
-    "n": 2,
-    "c": 2,
-    "t": "Lula levou o comando vermelho para o nordeste",
-    "v": "A afirmação é falsa: a interiorização e a chegada do Comando Vermelho (CV) ao Nordeste decorrem da dinâmica própria do crime organizado e da disputa internacional por rotas de narcotráfico, e não de qualquer ação ou política de Luiz Inácio Lula da Silva. Conforme pesquisas do Fórum Brasileiro de Segurança Pública (FBSP) e do Atlas da Violência, a nacionalização das facções sudestinas acelerou-se a partir de 2016 — período em que o PT já não estava no governo federal —, impulsionada pelo rompimento da aliança histórica entre o CV e o Primeiro Comando da Capital (PCC), pela transferência de lideranças carcerárias entre presídios estaduais e pela busca estratégica pelo controle de portos nordestinos (como Salvador, Fortaleza e Suape) para envio de cocaína à Europa e à África. O avanço da facção no Nordeste ocorreu por meio de cooptação, alianças ou confrontos sangrentos com bandos locais (como o Comando da Paz e o Bonde do Maluco na Bahia), constituindo um fenômeno estrutural de segurança pública amplamente documentado por especialistas. * Fontes: Fórum Brasileiro de Segurança Pública – A internacionalização e expansão do Comando Vermelho | Agência Brasil / Ipea – Atlas da Violência e a dinâmica das facções nos estados | G1 – Como o crime organizado avançou pelo território nacional"
-  },
-  {
+    "id": 19,
     "n": 2,
     "c": 3,
-    "t": "O PT entregou nem 30% do que prometeu ao Rio Grande do Sul",
-    "v": "O percentual não pode ser confirmado sem identificar quais promessas foram contabilizadas e quais entregas foram consideradas. O TCU registrou R$ 42,7 bilhões em créditos extraordinários autorizados para a recuperação do Rio Grande do Sul e R$ 26,1 bilhões pagos até julho de 2024. Esses números, porém, não permitem concluir qual proporção de todas as promessas foi cumprida. Anúncios, recursos autorizados, pagamentos e obras concluídas são indicadores diferentes."
+    "t": "Lula levou o comando vermelho para o nordeste",
+    "v": "Não há evidência de que Lula ou seu governo tenham 'levado' o Comando Vermelho ao Nordeste. A facção nasceu no Rio de Janeiro e se expandiu por recrutamento e disputas com grupos locais; no Ceará, por exemplo, a inteligência das forças de segurança aponta a expansão a partir de meados de 2015. Reportagens indicam que o avanço em Salvador e na Bahia é mais recente, com a facção assumindo ou combatendo grupos locais. Como parte dessa expansão ocorreu em anos do governo Lula, a fala tem aparência de fato, mas a atribuição a ele não é comprovada. Esta declaração não consta da checagem de referência do debate; a avaliação se baseia em reportagens, não em dado oficial.",
+    "s": [
+      "https://www.opovo.com.br/noticias/fortaleza/2022/03/07/ex-chefe-de-faccao-conta-sobre-o-cv-no-ceara.html",
+      "https://www.band.com.br/noticias/jornal-da-band/ultimas/comando-vermelho-entenda-como-a-faccao-surgiu-e-se-expandiu-no-pais-202510302040"
+    ]
   },
   {
+    "id": 20,
+    "n": 2,
+    "c": 2,
+    "t": "O PT entregou nem 30% do que prometeu ao Rio Grande do Sul",
+    "v": "Os números oficiais não sustentam 'nem 30%'. Em setembro de 2024, a Casa Civil informou R$ 42,3 bilhões pagos dos R$ 98,7 bilhões destinados ao Rio Grande do Sul (cerca de 43%). Pelo recorte do TCU, R$ 26,1 bilhões dos R$ 42,7 bilhões em créditos extraordinários estavam pagos até julho de 2024 (cerca de 61%). Ressalva: 'prometido' não é medido por nenhuma fonte, e pagamento não é obra concluída; mas nenhum indicador disponível aponta para menos de 30%.",
+    "s": [
+      "https://portal.tcu.gov.br/imprensa/noticias/tribunal-avalia-execucao-de-creditos-extraordinarios-para-o-rio-grande-do-sul",
+      "https://www.folhape.com.br/economia/governo-federal-destinou-r-987-bi-para-apoiar-rio-grande-do-sul/360043/",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
+  },
+  {
+    "id": 21,
     "n": 2,
     "c": 3,
     "t": "Bolsonaro entregou a transposição do rio São Francisco",
-    "v": "Não se tratou de uma obra concebida ou majoritariamente executada por sua gestão: iniciada em 2007 no governo Lula, a transposição já acumulava mais de 90% de execução física antes de Bolsonaro assumir o Planalto — atravessando as gestões Dilma Rousseff e Michel Temer (que inaugurou o Eixo Leste em 2017). Além disso, a sua gestão executou cerca de 5% a 7% do volume total das obras básicas, e o empreendimento integral continuou em andamento após 2022 por meio de ramais secundários e canais complementares (como os ramais do Apodi e do Salgado). Fontes: G1 – Fato ou Fake: Checagens sobre a transposição do Rio São Francisco | CNN Brasil – Dados da execução e eixos da transposição | Correio do Povo – Governo Federal anuncia conclusão do eixo principal da transposição"
+    "v": "Parcialmente correto. A obra começou em 2007, no governo Lula, com previsão inicial de 2012 e depois 2015. Segundo o Ministério da Integração, o governo Bolsonaro recebeu a obra com mais de 90% de execução; em abril de 2021 o governo informava 97,58%. Bolsonaro levou a água do Eixo Norte ao Ceará em 26/06/2020, mas a água do Eixo Leste já havia chegado à Paraíba em 10/03/2017, no governo Temer. Ou seja, ele concluiu etapas importantes, mas não entregou sozinho a transposição, que não foi concebida nem majoritariamente executada por sua gestão.",
+    "s": [
+      "https://www.em.com.br/app/noticia/nacional/2021/07/15/interna_nacional,1286823/amp.html",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
+    "id": 22,
     "n": 2,
     "c": 3,
     "t": "É favorável ao Bolsa família e que Jair Bolsonaro aumentou o valor do bolsa família",
-    "v": "Antes de ampliar Bolsa Família, Bolsonaro defendeu explícitamente o fim do benefício."
+    "v": "Parcialmente verdadeiro. Flávio tem dito que manterá o Bolsa Família (negou em 19/10/2026 planos de encerrá-lo), mas seus posts antigos o chamavam de 'bolsa-farelo'. Bolsonaro de fato ampliou o valor: o Auxílio Brasil, que substituiu o Bolsa Família em 2021, teve piso de R$ 400 (permanente) e acréscimo temporário que levou o valor a R$ 600 entre agosto e dezembro de 2022 (EC 123/2022). O piso permanente de R$ 600 só veio com a lei do governo Lula em 2023. Como deputado, em 2011 Bolsonaro chegou a defender o fim ou a substituição do programa, mas depois passou a dizer que o manteria.",
+    "s": [
+      "https://www.poder360.com.br/poder-eleicoes-2026/flavio-nega-plano-para-encerrar-o-bolsa-familia-em-2-anos/",
+      "https://www12.senado.leg.br/noticias/materias/2022/07/15/congresso-muda-auxilio-brasil-no-primeiro-semestre-e-assegura-beneficio-de-r-600",
+      "https://www.aosfatos.org/noticias/critico-do-programa-bolsonaro-se-contradiz-ao-defender-bolsa-familia/",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
+    "id": 23,
     "n": 1,
     "c": 1,
     "t": "Flávio Bolsonaro votou contra o aumento da licença e auxílio maternidade",
-    "v": "A afirmação é verdadeira: em abril de 2009, quando exercia o mandato de deputado estadual no Rio de Janeiro, Flávio Bolsonaro foi o único parlamentar da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) a votar contra a Proposta de Emenda Constitucional (promulgada como Emenda Constitucional Estadual nº 41/2009) que ampliou a licença-maternidade das servidoras públicas estaduais de 120 para 180 dias (quatro para seis meses)."
+    "v": "Verdadeiro, com ressalva de alcance. Em 2009, quando era deputado estadual na Alerj, Flávio Bolsonaro foi o único a votar contra a PEC de Marcelo Freixo que ampliou a licença-maternidade das servidoras civis do estado do Rio de quatro para seis meses (120 para 180 dias). O placar registrado na votação de 31/03/2009 foi de 45 a 1 (Notícia Preta); A Tarde cita 54 votos favoráveis em abril de 2009, sem informar a data exata. Nos dois relatos, o único voto contrário foi o dele. A medida valia só para servidoras estaduais fluminenses, e não encontrei registro sobre voto dele em relação a auxílio-maternidade. No debate, Flávio disse que \"estava errado\" e que votou acreditando que a ampliação dificultaria o emprego das mulheres.",
+    "s": [
+      "https://noticiapreta.com.br/flavio-bolsonaro-foi-contra-ampliar-licenca-maternidade-de-4-para-6-meses/",
+      "https://www.metropoles.com/brasil/flavio-sobre-voto-contra-ampliacao-da-licenca-maternidade-estava-errado",
+      "https://atarde.com.br/politica/debate-da-globo-flavio-admite-voto-contra-licenca-maternidade-mas-nao-se-desculpa-1406936",
+      "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-admite-erro-ao-votar-contra-maior-licenca-maternidade",
+      "https://acritica.net/politica/debate-lula-flavio-licenca-maternidade-2009-alerj/",
+      "https://projetocolabora.com.br/artigo/no-brasil-de-flavio-quem-protegera-as-mulheres/"
+    ]
   },
   {
+    "id": 24,
     "n": 1,
     "c": 1,
     "t": "Flávio Bolsonaro chamou o bolsa família de bolsa farelo",
     "v": "A afirmação é verdadeira: em publicações antigas no X (antigo Twitter) — resgatadas por levantamento do jornal O Estado de S. Paulo —, Flávio Bolsonaro utilizou expressamente o termo \"bolsa-farelo\" ao atacar o programa de transferência de renda, acusando o PT de perpetuar a pobreza e usar o benefício com finalidade eleitoreira. Os registros mostram que, em junho de 2013, o então deputado estadual escreveu que o governo petista \"perpetua a pobreza com o bolsa-farelo\"; essas postagens foram apagadas do perfil do senador às vésperas do segundo turno da disputa presidencial de 2026, momento em que sua campanha passou a garantir a manutenção e o fortalecimento do benefício social."
   },
   {
+    "id": 25,
     "n": 2,
     "c": 3,
     "t": "Foi o Bolsonaro que elevou o Bolsa Familia a 600 reais",
     "v": "A frase omite um detalhe importante: o benefício de R$ 600 era temporário. Durante o governo Bolsonaro, o Bolsa Família foi substituído pelo Auxílio Brasil, e a Lei nº 14.342/2022 estabeleceu um benefício extraordinário que garantia o pagamento mínimo de R$ 400 por família. O aumento para R$ 600 ocorreu por meio da Emenda Constitucional nº 123, aprovada pelo Congresso em julho de 2022, que acrescentou R$ 200 ao valor do benefício. Esse adicional, porém, tinha prazo determinado: vigorou apenas de agosto a dezembro de 2022, coincidindo com o período da campanha eleitoral daquele ano."
   },
   {
+    "id": 26,
     "n": 1,
-    "c": 1,
+    "c": 3,
     "t": "O primeiro emprego do flavio. bolsonaro foi funcionario fantasma?",
-    "v": "O primeiro emprego de Flávio Bolsonaro foi como assistente técnico na liderança do Partido Progressista Brasileiro (PPB) na Câmara dos Deputados, em Brasília, cargo que gerou acusações e indícios de que ele atuou como funcionário fantasma."
+    "v": "Entre 2000 e 2002, aos 19 anos, Flávio ocupou um cargo comissionado de 40 horas semanais na Câmara dos Deputados, em Brasília, indicado pelo PPB (partido de Jair Bolsonaro), enquanto cursava Direito e estagiava na Defensoria Pública no Rio, segundo reportagem da BBC Brasil de 2019. A reportagem não afirma que o emprego fosse fictício, e Flávio e Jair não responderam sobre a frequência. A ficha da Alerj lista como primeiras atividades os estágios, e a referência do debate não achou nomeação dele no gabinete de Jair. Portanto, o emprego em Brasília existiu, mas 'falso' ou 'fantasma' não está comprovado.",
+    "s": [
+      "https://congressoemfoco.com.br/noticia/26347/flavio-bolsonaro-ocupou-cargo-na-camara-em-brasilia-enquanto-fazia-faculdade-e-estagio-no-rio",
+      "https://www.brasildefato.com.br/2019/01/24/a-mamata-de-flavio-bolsonaro-tres-ocupacoes-em-df-e-rj-com-rdollar-13-mil-de-salario",
+      "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/275",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
+    "id": 27,
     "n": 2,
-    "c": 3,
+    "c": 1,
     "t": "Moradores de rua dobraram durante o governo do Lula",
-    "v": "A afirmação é parcialmente verdadeira (com contexto metodológico essencial): os números brutos do Cadastro Único (CadÚnico) de fato quase dobraram ao longo do terceiro mandato de Lula, saltando de 198,7 mil pessoas em dezembro de 2022 para cerca de 392,4 mil em 2026 (uma alta de 97,4%). Contudo, especialistas do Ipea, pesquisadores de assistência social e o Ministério do Desenvolvimento e Assistência Social (MDS) apontam que essa explosão nas estatísticas não significa necessariamente que a população física nas ruas duplicou de forma repentina, mas reflete em grande parte a busca ativa municipal, a superação de subnotificações dos anos anteriores e a inclusão de incentivos diretos de cadastramento, como a priorização dessa população no Bolsa Família e no plano Ruas Visíveis a partir de 2023. O aumento real existe e vem numa curva ascendente contínua há mais de uma década (impulsionada por desemprego, crise habitacional e desestruturação familiar), mas a taxa de quase 100% de alta expressa principalmente a maior visibilidade cadastral desse público nas bases de dados governamentais."
+    "v": "No Cadastro Único, as pessoas em situação de rua passaram de 198,7 mil em dezembro de 2022 para 392,4 mil em junho de 2026 (+97,4%), e a referência do debate registra cerca de 400 mil em setembro de 2026, ou seja, o dobro. A ressalva é que o CadÚnico mede pessoas cadastradas, não é um censo: o MDS atribui parte da alta ao melhor cadastramento, e a série já subia antes (139,7 mil em dez/2021). Em jul/2025 a população de rua passou a ter prioridade no Bolsa Família, o que também estimula o cadastro.",
+    "s": [
+      "https://diariodopoder.com.br/brasil-e-regioes/e02-brasil/cadastro-unico-registra-alta-de-97-na-populacao-em-situacao-de-rua-em-governo-lula",
+      "https://www.jornalopcao.com.br/ultimas-noticias/populacao-em-situacao-de-rua-quase-dobra-no-brasil-desde-o-inicio-do-governo-lula-goias-registra-alta-de-121-844337/",
+      "https://static.poder360.com.br/uploads/2026/07/Representacao_TCU_-_Bolsa_Familia_Populacao_em_Situacao_de_Rua_V2.pdf",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
-    "n": 2,
-    "c": 2,
-    "t": "São Paulo acabou com a Cracolândia e tratou a saúde dos moradores de rua",
-    "v": "A afirmação é falsa: a Cracolândia em São Paulo não acabou, nem houve uma resolução estrutural no tratamento de saúde dessa população. Dados de monitoramento da Prefeitura de São Paulo, do Laboratório de Estudos sobre Espaço Público e Direito à Cidade (LabCidade/USP) e de relatórios do Ministério Público de São Paulo (MPSP) apontam que as ações policiais e urbanísticas dos últimos anos resultaram na dispersão territorial do fluxo de usuários — que antes se concentrava em pontos como a Praça Princesa Isabel e a Rua Helvétia — em dezenas de pequenos agrupamentos ('minicracolândias') espalhados por bairros centrais como Santa Cecília, Campos Elíseos e Bom Retiro. Embora o poder público estadual e municipal tenha ampliado vagas em comunidades terapêuticas, inaugurado unidades do Hub de Cuidados em Crack e Outras Drogas e reforçado abordagens de saúde mental (CAPS e Consultórios na Rua), especialistas da Fiocruz e da USP destacam que a adesão continuada e a reabilitação em saúde permanecem em níveis criticamente baixos, marcadas pela baixa resolutividade clínica, recaídas frequentes e forte resistência dos usuários a intervenções de perfil compulsório ou asilar. Fontes: LabCidade/USP – Mapeamento da dispersão e dinâmica das cenas de uso no Centro de SP | Ministério Público do Estado de São Paulo – Atuação e relatórios sobre a política de drogas na Cracolândia | Fiocruz – Pesquisas sobre atenção psicossocial e vulnerabilidade nas cenas abertas de drogas"
-  },
-  {
-    "n": 2,
-    "c": 2,
-    "t": "Está tudo mais caro no governo do PT",
-    "v": "Salário mínimo comprava 1,8 cesta básica durante o governo Jair Bolsonaro (2019-2022) e passou a comprar 2,2 cestas básicas no atual governo Lula, segundo declarações do próprio presidente em debate eleitoral, com base em dados do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). Os preços subiram (~19% desde 2023), mas bem menos que no mandato anterior (~27%) e menos que a renda: o salário mínimo real subiu ~11% e o rendimento médio ~13%, então o poder de compra médio aumentou."
-  },
-  {
-    "n": 2,
-    "c": 2,
-    "t": "Quer expandir legislação para cuidar de animais silvestres",
-    "v": "Sua atuação legislativa no Congresso Nacional é historicamente marcada por posições vistas por ambientalistas e biólogos como contrárias à proteção da vida silvestre: o senador votou e atuou a favor de projetos da bancada ruralista que flexibilizam o licenciamento ambiental, apoiou medidas que enfraquecem a fiscalização de órgãos como o Ibama e o ICMBio, e assinou propostas polêmicas voltadas à facilitação da caça esportiva e de controle de fauna silvestre (como a caça ao javali e a regulamentação de armas para atiradores/caçadores - CACs), além de ter defendido no passado pautas controversas como a liberação de cassinos em resorts integrados que afetariam áreas costeiras e de preservação marinha."
-  },
-  {
-    "n": 2,
-    "c": 2,
-    "t": "Em outubro de 2022, a previsão era que o Bolsonaro, caso eleito, tivesse taxa de juros de 7%",
-    "v": "A afirmação é falsa: em outubro de 2022 (às vésperas do segundo turno), nenhuma projeção de consenso do mercado financeiro ou do Banco Central apontava que a taxa básica de juros (Selic) cairia para 7% em caso de vitória de Jair Bolsonaro. De acordo com os relatórios semanais do Boletim Focus do Banco Central daquele mês — que consolidam as estimativas de mais de 100 instituições financeiras e analistas —, a taxa Selic estava fixada em 13,75% ao ano e a mediana das projeções indicava que os juros terminariam o ano de 2023 em torno de 11,25% a 11,75%, projetando quedas graduais para patamares entre 8,0% e 8,5% apenas para o final de 2024 e 2025. Embora integrantes da campanha e o então ministro Paulo Guedes ventilassem narrativas de que a continuidade da agenda de reformas e a privatização de estatais pudessem acelerar o ciclo de cortes nos anos seguintes, o mercado jamais precificou formalmente juros nominais a 7% para o mandato subsequente, sobretudo diante da persistência da inflação global e das pressões fiscais já contratadas para 2023 (como a manutenção do Auxílio Brasil a R$ 600 fora do teto). Fontes: Banco Central do Brasil – Relatório de Mercado Focus (Séries Históricas de Outubro de 2022) | Valor Econômico – Projeções macroeconômicas e Selic no cenário eleitoral de 2022 | InfoMoney – Expectativas do mercado financeiro para juros e inflação pós-eleições 2022"
-  },
-  {
-    "n": 2,
-    "c": 2,
-    "t": "A projeção da taxa de juros ea de 7% caso Jair Bolsonaro continuasse no poder",
-    "v": "Não há registro de que a previsão oficial da taxa Selic em outubro de 2022 fosse de 7% caso Jair Bolsonaro continuasse no poder. e a Taxa de Juros do país depende de uma série de fatores externos fora do controle do governo."
-  },
-  {
+    "id": 28,
     "n": 2,
     "c": 3,
-    "t": "O CadÚnico (Cadastro Único) é um benefício social",
-    "v": "Não, o CadÚnico (Cadastro Único) não é um benefício social em si. Ele funciona como um instrumento de registro e coleta de dados criado pelo Governo Federal para identificar e mapear as famílias de baixa renda que vivem no país. Na prática, o CadÚnico atua como a porta de entrada para diversos programas e políticas públicas. Estar inscrito não significa receber um valor financeiro automaticamente, mas é o requisito fundamental e obrigatório para poder solicitar e ter acesso a esses auxílios."
+    "t": "São Paulo acabou com a Cracolândia e tratou a saúde dos moradores de rua",
+    "v": "A principal concentração (Rua dos Protestantes) foi desfeita em 10/05/2025, segundo a Prefeitura de SP, e o governo estadual afirma que não há mais concentração massiva. Mas os usuários não desapareceram: reportagens de 2025 e 2026 mostram grupos menores em Santa Cecília, Terminal Princesa Isabel, Glicério e Parque Dom Pedro II, sob vigilância policial. O poder público cita equipes do Consultório na Rua, vagas de acolhimento e um Hub de Cuidados com mais de 38 mil atendimentos, mas não há dados independentes de que a saúde dos moradores de rua tenha sido tratada. Assim, 'acabou' vale para o fluxo concentrado, e o tratamento não está demonstrado.",
+    "s": [
+      "https://prefeitura.sp.gov.br/web/se/w/prefeitura-divulga-publica%C3%A7%C3%A3o-digital-com-a%C3%A7%C3%B5es-intersecretariais-em-parceria-com-o-governo-do-estado-que-levaram-%C3%A0-extin%C3%A7%C3%A3o-da-maior-cena-aberta-de-uso-de-drogas-da-am%C3%A9rica-latina",
+      "https://www.brasildefato.com.br/2026/03/23/dispersao-forcada-e-vigilancia-o-novo-cenario-da-cracolandia-em-sao-paulo/",
+      "https://www.cnnbrasil.com.br/nacional/sudeste/sp/onde-esta-a-cracolandia-como-esta-o-jogo-de-gato-e-rato-de-policia-e-trafico-no-centro-de-sp/"
+    ]
   },
   {
+    "id": 29,
+    "n": 2,
+    "c": 3,
+    "t": "Está tudo mais caro no governo do PT",
+    "v": "Os preços subiram: o IPCA acumulou cerca de 18,9% de jan/2023 a set/2026. É menos que os cerca de 26,9% de jan/2019 a dez/2022, no governo Bolsonaro. O salário mínimo foi de R$ 1.302 (jan/2023) para R$ 1.621, um ganho real de cerca de 6,5% pelo INPC, enquanto no período 2019-jan/2023 o ganho real foi de cerca de 1%. Portanto, 'mais caro' é verdade em termos nominais, como em qualquer governo, mas 'tudo mais caro' não descreve perda de poder de compra do mínimo.",
+    "s": [
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2019&dataFinal=23/10/2026",
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.188/dados?formato=json&dataInicial=01/01/2019&dataFinal=23/10/2026",
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json&dataInicial=01/01/2019&dataFinal=23/10/2026"
+    ]
+  },
+  {
+    "id": 30,
+    "n": 2,
+    "c": 3,
+    "t": "Quer expandir legislação para cuidar de animais silvestres",
+    "v": "Não encontrei projeto de lei ou proposta de campanha de Flávio para ampliar a proteção de animais silvestres, e uma promessa não é verificável como fato. O contexto legal é este: a Lei Sansão (Lei 14.064/2020), sancionada por Jair Bolsonaro em 29/09/2020, elevou a pena para 2 a 5 anos de reclusão só para maus-tratos a cães e gatos. Para os demais animais, inclusive silvestres, a pena segue sendo de detenção de 3 meses a 1 ano. Ou seja, ampliar a lei para animais silvestres seria uma mudança real, mas depende de proposta que ainda não localizei.",
+    "s": [
+      "https://www.congressoemfoco.com.br/noticia/22898/depois-de-acenar-com-veto-bolsonaro-sanciona-lei-contra-maus-tratos-a-animais",
+      "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14064.htm"
+    ]
+  },
+  {
+    "id": 31,
+    "n": 2,
+    "c": 1,
+    "t": "Em outubro de 2022, a previsão era que o Bolsonaro, caso eleito, tivesse taxa de juros de 7%",
+    "v": "No boletim Focus de outubro de 2022, a mediana do mercado para a Selic no fim de 2026 foi de 7,5% e subiu para 7,75% na última semana do mês, o que é 'em torno de 7%'. A projeção era de mercado, feita antes do segundo turno e sem depender de quem vencesse, então não era uma previsão específica para um novo mandato de Bolsonaro. A Selic real está em 13,75% ao ano, bem acima do que se projetava.",
+    "s": [
+      "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?$filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2026'%20and%20Data%20ge%20'2022-10-01'%20and%20Data%20le%20'2022-10-31'%20and%20baseCalculo%20eq%200&$format=json",
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/10/2022&dataFinal=31/10/2026",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
+  },
+  {
+    "id": 32,
+    "n": 2,
+    "c": 1,
+    "t": "A projeção da taxa de juros era de 7% caso Jair Bolsonaro continuasse no poder",
+    "v": "O boletim Focus de outubro de 2022 trazia mediana de 7,5% para a Selic no fim de 2026, que subiu a 7,75% na última semana do mês, ou seja, em torno de 7%. Ressalva: era uma projeção de mercado, feita antes do segundo turno e sem condicionar ao resultado da eleição. A Selic hoje está em 13,75% ao ano.",
+    "s": [
+      "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?$filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2026'%20and%20Data%20ge%20'2022-10-01'%20and%20Data%20le%20'2022-10-31'%20and%20baseCalculo%20eq%200&$format=json",
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/10/2022&dataFinal=31/10/2026",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
+  },
+  {
+    "id": 33,
+    "n": 2,
+    "c": 2,
+    "t": "O CadÚnico (Cadastro Único) é um benefício social",
+    "v": "O CadÚnico não é um benefício social. O Decreto 6.135/2007 o define como instrumento de identificação e caracterização socioeconômica das famílias de baixa renda, de uso obrigatório para selecionar beneficiários e integrar programas sociais do Governo Federal. Estar inscrito não gera pagamento algum: é a porta de entrada para benefícios como o Bolsa Família, que têm critérios próprios.",
+    "s": [
+      "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6135.htm"
+    ]
+  },
+  {
+    "id": 34,
     "n": 1,
     "c": 1,
     "t": "O PT herdou taxa de juros de 13% do governo Bolsonaro",
     "v": "A afirmação é verdadeira: em 1º de janeiro de 2023, quando Luiz Inácio Lula da Silva assumiu o terceiro mandato, a taxa básica de juros (Selic) estava fixada em 13,75% ao ano. Esse patamar havia sido definido pelo Comitê de Política Monetária (Copom) do Banco Central ainda em agosto de 2022, durante a gestão de Jair Bolsonaro, com o objetivo de conter a forte escalada inflacionária decorrente do pós-pandemia e das tensões geopolíticas globais, permanecendo congelado nesse nível até o início do ciclo de cortes em agosto de 2023. Fontes: Banco Central do Brasil – Histórico das Taxas de Juros (Copom) | G1 – Copom mantém taxa Selic em 13,75% ao ano na transição de governo."
   },
   {
+    "id": 35,
     "n": 1,
     "c": 1,
     "t": "Perdoamos a divida dos MEI e aumentamos o número de funcionarios",
-    "v": "O presidente Luiz Inácio Lula da Silva sancionou em 21 de outubro de 2026 a Lei Complementar nº 238/2026 (parte do pacote Prospera MEI), que traz mudanças importantes para os Microempreendedores Individuais, incluindo perdão de dívidas."
+    "v": "Verdadeiro. A Lei Complementar 238/2026, publicada no Diário Oficial da União em 21/10/2026, perdoa dívidas dos MEIs com a União constituídas até 13/10/2026, incluindo juros e multas, desde que os pagamentos posteriores estejam em dia e o MEI cumpra os requisitos para formalizar o perdão. A lei também permite que o MEI tenha até dois empregados (hoje o limite é um) e eleva o teto de faturamento de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028. A maior parte das medidas vale a partir de 01/01/2027.",
+    "s": [
+      "https://www12.senado.leg.br/noticias/materias/2026/10/21/nova-lei-amplia-limite-de-faturamento-do-mei-e-preve-perdao-de-dividas",
+      "https://www.planalto.gov.br/ccivil%5F03/leis/lcp/lcp238.htm"
+    ]
   },
   {
+    "id": 36,
     "n": 1,
     "c": 1,
     "t": "Ninguém nunca fez mais crédito do que o PT fez",
-    "v": "A afirmação é verdadeira: os governos petistas lideraram a maior expansão de crédito da história do Brasil, tanto em volume financeiro quanto em proporção da economia. Segundo dados da série histórica do Banco Central, as operações de crédito total saltaram de cerca de 24% do PIB em 2003 para mais de 53% do PIB em 2014, impulsionadas pela criação do crédito consignado, pelo uso intensivo de bancos públicos (BNDES, Caixa e Banco do Brasil) para financiar empresas e habitação (Minha Casa, Minha Vida), e pelo fortalecimento do crédito rural (Plano Safra) e estudantil (FIES), patamar estrutural de democratização financeira jamais igualado por outras gestões no país."
+    "v": "Verdadeiro, medindo pelo saldo de crédito em proporção do PIB. Na série do Banco Central (SGS 20622), o crédito passou de 25,8% do PIB em dez/2002 para 52,2% em dez/2014 e 53,9% em dez/2015, alta de cerca de 28 pontos percentuais nos governos Lula e Dilma. No terceiro mandato de Lula chegou a 56,0% em dez/2025, o maior nível da série. Entre dez/2018 e dez/2022 (governo Bolsonaro), a alta foi de 46,6% para 53,2%, cerca de 6,6 pontos. A afirmação depende de como se mede 'fazer crédito': em reais correntes, qualquer governo recente acumula mais por causa da inflação.",
+    "s": [
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20622/dados?formato=json&dataInicial=01/12/2002&dataFinal=24/10/2026"
+    ]
   },
   {
+    "id": 37,
     "n": 1,
     "c": 1,
     "t": "Planeja comprar a dívida de pessoas físicas",
-    "v": "Sim. O presidente Luiz Inácio Lula da Silva anunciou formalmente uma medida nesse sentido por meio da fase Desenrola 3.0, voltada para que o governo passe a comprar diretamente carteiras de dívidas de pessoas físicas e MEIs junto ao sistema bancário."
+    "v": "Verdadeiro. A Medida Provisória 1.393, de 25/09/2026, institui o Desenrola Brasil 3.0 e autoriza a União a comprar carteiras de dívidas em atraso de pessoas físicas, em procedimento competitivo com deságio mínimo. Em 22/10/2026 o Ministério da Fazenda abriu chamamento para instituições financeiras e outras empresas credoras (prazo até 30/10) informarem carteiras de PF e MEIs com atraso de 2 a 4,5 anos, para estruturar o leilão. As compras ainda não começaram, e o chamamento não obriga a União a comprar.",
+    "s": [
+      "https://www.planalto.gov.br/ccivil%5F03/_ato2023-2026/2026/mpv/mpv1393.htm",
+      "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/fazenda-abre-chamamento-publico-para-instituicoes-interessadas-em-participar-como-credoras-da-terceira-fase-da-renegociacao-de-dividas"
+    ]
   },
   {
+    "id": 38,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "O Lula criou ou aumentou mais de 30 impostos no último mandato",
-    "v": "A afirmação é exagerada e enganosa do ponto de vista tributário formal, embora tenha base no avanço da arrecadação: o governo Lula não criou 30 tributos novos — o sistema tributário brasileiro possui cerca de uma dúzia de tributos federais principais previstos na Constituição —, mas implementou mais de 20 medidas arrecadatórias focadas em recompor receitas fiscais. Entre elas destacam-se o fim da isenção de compras internacionais até US$ 50 ('taxa das blusinhas'), a tributação de fundos exclusivos (super-ricos) e offshores, a volta da reoneração de combustíveis (PIS/Cofins), mudanças no Carf, limitação de benefícios do ICMS em subvenções e a taxação de apostas esportivas (bets); críticos somam reonerações, alterações de alíquotas setoriais e portarias para inflar a conta acima de 30 'aumentos', mas analistas da FGV e do Ipea apontam que a maior parte foi corte de desonerações e fechamento de brechas fiscais prévias."
+    "v": "Não há contagem oficial de quantos tributos Lula criou ou aumentou desde 2023, e o número depende de contar leis, atos ou tributos. O estudo da Consultoria do Senado (Texto para Discussão 348, ago/2025) sistematiza as medidas provisórias, decretos e leis que elevaram a arrecadação federal de jan/2023 a jun/2025, com impacto estimado acima de R$ 400 bilhões até 2027. Ele trata de medidas de aumento de arrecadação, não de 30 impostos distintos. A existência de aumentos de arrecadação é real; o número 'mais de 30' não pode ser confirmado.",
+    "s": [
+      "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/textos-para-discussao/td348"
+    ]
   },
   {
+    "id": 39,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "Há falta de dipirona nas unidades básicas de saúde",
-    "v": "Não há uma falta, há janela de reposição de estoques pontuais como acontece com qualquer serviço além de que a responsabilidade é do governo Municipal. Fora que essa reposição não é de responsabilidade direta do governo federal."
+    "v": "A declaração é generalizada e não há dado nacional recente que a confirme. Há relatos pontuais, como reportagem de 15/07/2026 sobre postos de saúde de Mari (PB) sem dipirona, e a falta do medicamento foi noticiada em 2022, no governo Bolsonaro. A compra de remédios da atenção básica é feita sobretudo por estados e municípios, com cofinanciamento federal, então faltas locais nem sempre decorrem de ação do governo federal. Não foi encontrado painel oficial que mostre desabastecimento nacional de dipirona em 2026.",
+    "s": [
+      "https://www.tanaarea.com.br/politica/cidade-paraibana-que-nao-tem-nem-dipirona-nos-postos-de-saude/",
+      "https://www.poder360.com.br/saude/saude-recebe-alerta-de-baixo-estoque-de-dipirona-injetavel/"
+    ]
   },
   {
+    "id": 40,
     "n": 1,
     "c": 1,
     "t": "O Bolsonaro debochou e imitou pessoas sufocando por causa da COVID",
-    "v": "A afirmação é verdadeira: durante transmissões ao vivo oficiais nas redes sociais em março e maio de 2021 — no auge da pandemia de Covid-19 —, Jair Bolsonaro imitou repetidamente pessoas com falta de ar e sufocando ao ironizar as orientações médicas e sanitárias de isolamento recomendadas pelo ex-ministro da Saúde Luiz Henrique Mandetta. Nas ocasiões, ele puxou o ar pela boca com dificuldade e debochou: 'fica em casa e, quando estiver sentindo falta de ar [faz a encenação ofegante], vai para o hospital fazer o quê se não tem remédio?' — episódios que foram amplamente registrados em vídeo, incluídos no relatório final da CPI da Pandemia no Senado e resgatados nacionalmente durante as sabatinas eleitorais de 2022. Fontes: G1 – Bolsonaro imitou paciente com falta de ar durante transmissões ao vivo em 2021 | Estado de Minas – Bolsonaro imita pessoa com falta de ar durante live nas redes | Senado Federal – Relatório Final da CPI da Pandemia"
+    "v": "Verdadeiro, com contexto. Na live de 18/03/2021, em plena pandemia, Bolsonaro imitou uma pessoa com falta de ar, fazendo sons guturais, ao criticar a orientação de Mandetta de procurar o hospital só diante desse sintoma: 'Você vai para casa, e quando você estiver lá… com falta de ar, aí você vai para o hospital'. A imitação está registrada; o 'deboche' é a caracterização de Lula sobre a intenção de Bolsonaro, que dizia criticar a orientação do ex-ministro.",
+    "s": [
+      "https://www.poder360.com.br/governo/bolsonaro-imita-pessoa-com-falta-de-ar-e-critica-mandetta/"
+    ]
   },
   {
+    "id": 41,
     "n": 2,
     "c": 2,
     "t": "Lula não fez nada para ajudar a dívida das Santas Casas",
-    "v": "A afirmação é falsa: o governo Lula adotou medidas legislativas e financeiras de socorro às Santas Casas e hospitais filantrópicos, como a liberação de cerca de R$ 2 bilhões em auxílios emergenciais pelo Ministério da Saúde em 2023 e a sanção da lei que prorrogou o uso de recursos do FGTS até 2030 para linhas de crédito especiais, liberando mais de R$ 2 bilhões para refinanciar e alongar débitos com prazos estendidos e juros reduzidos; contudo, entidades como a Confederação das Santas Casas (CMB) ressalvam que o socorro é paliativo e não extingue a crise estrutural, mantendo o setor com endividamento bilionário devido à defasagem histórica da tabela de procedimentos do SUS. Fontes: Metrópoles – Lula sanciona lei para uso do FGTS em crédito a Santas Casas | JOTA – Santas Casas e hospitais filantrópicos buscam renegociação de dívida | Ministério da Saúde – Repasses emergenciais a entidades filantrópicas e Santas Casas"
+    "v": "Falso. Em 06/08/2026 Lula sancionou lei que estende até 2030 o uso de recursos do FGTS em crédito (Caixa Hospitais FGTS) a hospitais filantrópicos e Santas Casas, incluindo reestruturação financeira; para 2026 há R$ 8,5 bilhões disponíveis, dos quais R$ 3,41 bilhões já contratados. Em junho de 2026, Saúde e Caixa também acertaram R$ 1 bilhão em crédito a oito hospitais filantrópicos, entre eles as Santas Casas de São Paulo e de Porto Alegre. São linhas de crédito e não perdão de dívida, e o setor segue pressionando por reajuste da tabela SUS, mas dizer que o governo 'não fez nada' pela dívida das Santas Casas não procede.",
+    "s": [
+      "https://www.itatiaia.com.br/politica/governo-prorroga-uso-do-fgts-para-financiar-hospitais-ate-2030/",
+      "https://mercadoeconsumo.com.br/05/06/2026/servicos/saude-firma-acordo-com-a-caixa-para-liberar-r-1-bi-em-credito-para-8-hospitais-filantropicos/amp/",
+      "https://www.congressoemfoco.com.br/noticia/121072/lula-sanciona-lei-que-autoriza-uso-do-fgts-em-credito-para-hospitais"
+    ]
   },
   {
+    "id": 42,
     "n": 2,
-    "c": 2,
+    "c": 1,
     "t": "Meu pai foi salvo de uma facada graças ao SUS",
-    "v": "A Santa Casa é uma instituição privada, filantrópica e sem fins lucrativos, e não um hospital público estatal."
+    "v": "Verdadeiro. Após a facada em 06/09/2018, Bolsonaro foi atendido na urgência da Santa Casa de Misericórdia de Juiz de Fora, operado e estabilizado, e só no dia seguinte foi transferido ao Albert Einstein, em São Paulo. A Santa Casa é filantrópica, mas atende pelo SUS, e a imprensa registrou que a tabela SUS pagou a cirurgia abdominal (R$ 367,06 para a equipe, R$ 1.090,80 para o hospital). O Ministério da Saúde também registra o atendimento. A etapa posterior do tratamento foi em hospital privado.",
+    "s": [
+      "https://tribunademinas.com.br/noticias/cidade/13-09-2018/apos-atentado-sindicato-destaca-qualidade-do-sus.html?amp=1",
+      "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/agosto/no-dia-nacional-da-saude-ministerio-da-saude-homenageia-nomes-relevantes-para-a-medicina-brasileira"
+    ]
   },
   {
+    "id": 43,
     "n": 2,
     "c": 3,
     "t": "Tarcísio reduziu as filas do SUS em São Paulo",
-    "v": "A afirmação é parcialmente verdadeira (com resultados mistos): a gestão de Tarcísio de Freitas em São Paulo realizou mutirões e criou a \"Tabela SUS Paulista\" — que remunera procedimentos acima da tabela federal para hospitais filantrópicos —, atingindo recordes na realização de cirurgias eletivas (mais de 1,2 milhão ao ano) e reduzindo a espera cirúrgica em várias regiões; por outro lado, levantamentos oficiais via LAI obtidos pela imprensa apontam que a fila de exames diagnósticos e consultas especializadas cresceu na rede estadual (superando 2,2 milhões de pessoas à espera, alta de 14,6%), refletindo a alta demanda reprimida do pós-pandemia e a migração de usuários de convênios médicos para o sistema público. Fontes: G1 – Fila para exames na rede estadual de saúde de SP cresce na gestão Tarcísio | Secretaria de Estado da Saúde de SP – Balanços do Mutirão de Cirurgias e Tabela SUS Paulista"
+    "v": "Impreciso. A Tabela SUS Paulista existe e foi criada na gestão Tarcísio: paga a hospitais filantrópicos até cinco vezes o valor da tabela federal, com R$ 4,3 bilhões do Tesouro estadual no primeiro ano e cerca de 800 instituições beneficiadas. Segundo a Secretaria da Saúde, SP fez 1,3 milhão de cirurgias eletivas em 2025, recorde e alta de 85% sobre 2022, e o tempo de espera caiu em algumas especialidades. Esses números são do próprio governo estadual; não achei série consolidada e independente que mostre queda geral das filas, e há filas longas persistentes em cidades como Campinas.",
+    "s": [
+      "http://www.saude.sp.gov.br/coordenadoria-de-controle-de-doencas/noticias/03072025-saiba-como-a-tabela-sus-paulista-acelerou-cirurgias-e-exames",
+      "https://jovempan.com.br/saude/sao-paulo-realiza-13-milhao-de-cirurgias-eletivas-em-2025-recorde-no-sus/"
+    ]
   },
   {
+    "id": 44,
     "n": 2,
-    "c": 3,
+    "c": 1,
     "t": "Lula disse 'se tá caro não compra!'",
-    "v": "Parcialmente verdadeiro. Durante uma entrevista a rádios, Lula afirmou que 'se você vai no supermercado e desconfia que tal produto está caro, você não compra', argumentando que, sem vendas, os comerciantes seriam forçados a baixar os preços ou o produto iria estragar."
+    "v": "Verdadeiro. Em entrevista a rádios da Bahia divulgada em 06/02/2025, Lula disse: 'Se você vai ao supermercado em Salvador e você desconfia que tal produto está caro, você não compra'. Ele defendeu que o consumidor deixar de comprar é forma de pressionar preços para baixo e chamou isso de 'processo educacional'. A fala de Flávio é uma paráfrase curta ('se tá caro não compra'), fiel ao sentido da declaração.",
+    "s": [
+      "https://www.poder360.com.br/poder-governo/lula-diz-que-consumidores-devem-deixar-de-comprar-produtos-caros/"
+    ]
   },
   {
+    "id": 45,
     "n": 1,
     "c": 1,
     "t": "PT fez dois desenrolas e atendeu milhões de brasileiros",
-    "v": "A afirmação é verdadeira: o governo Lula lançou o primeiro Desenrola Brasil em 2023, que beneficiou cerca de 15 milhões de pessoas (entre dívidas quitadas, desnegativações de até R$ 100 e renegociações com desconto), e ampliou a iniciativa com novas edições e fases (Desenrola 2.0 / Pequenos Negócios / Fies), atingindo mais milhões de pessoas físicas, estudantes e microempreendedores."
+    "v": "Verdadeiro. O primeiro Desenrola (MP 1.176, de 2023) renegociou cerca de R$ 53 bilhões em dívidas de aproximadamente 15 milhões de pessoas, segundo a referência da checagem do debate (balanço parcial de dezembro de 2023: 10,7 milhões de pessoas e R$ 29 bilhões). O Novo Desenrola, de maio a 31/08/2026, renegociou cerca de 5 milhões de dívidas (R$ 26,3 bilhões originais), além de pessoas que limparam o nome com dívidas de até R$ 100. Os dois atenderam milhões de brasileiros; já o número de 'quase 16 milhões' para o segundo programa, citado em outro momento do debate, é exagerado.",
+    "s": [
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-termina-nesta-segunda-feira",
+      "https://www.gazetasp.com.br/brasil/desenrola-ja-renegociou-r-29-bilhoes-em-dividas/",
+      "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/mpv/mpv1176.htm"
+    ]
   },
   {
+    "id": 46,
     "n": 1,
     "c": 1,
     "t": "Criamos o MEI",
     "v": "Verdadeiro, criado em 2008 e em vigencia desde 2009"
   },
   {
+    "id": 47,
     "n": 1,
     "c": 3,
     "t": "O PT anunciou o perdão de 15 bilhões de dívidas para MEIs",
-    "v": "Verdadeira, com ressalvas. A Lei Geral da Micro e Pequena Empresa foi instituída pela Lei Complementar nº 123/2006, sancionada por Lula. O MEI foi criado pela Lei Complementar nº 128/2008, também sancionada durante seu governo. As medidas foram aprovadas com participação do Congresso Nacional; portanto, atribuí-las exclusivamente ao presidente simplifica o processo legislativo."
+    "v": "Impreciso. A Lei Complementar 238, publicada em 21/10/2026, perdoa dívidas dos MEIs com a União constituídas até 13/10/2026, incluindo juros e multas. A lei não informa o valor total, e a estimativa do governo, segundo a checagem de referência, é de R$ 12,6 bilhões para 3,6 milhões de MEIs, abaixo dos 'quase R$ 15 bilhões' citados. O perdão depende de pedido e de pagamentos em dia depois dele; o anúncio do governo foi em 13/10 e a lei foi aprovada pelo Congresso, não só pelo PT.",
+    "s": [
+      "https://www12.senado.leg.br/noticias/materias/2026/10/21/nova-lei-amplia-limite-de-faturamento-do-mei-e-preve-perdao-de-dividas",
+      "https://www.planalto.gov.br/ccivil%5F03/leis/lcp/lcp238.htm"
+    ]
   },
   {
+    "id": 48,
     "n": 1,
     "c": 1,
     "t": "Fizemos a lei geral da pequena e media empresa",
     "v": "A afirmação é verdadeira. A Lei Complementar nº 123, que instituiu o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte (conhecida como Lei Geral da Micro e Pequena Empresa), foi sancionada por Luiz Inácio Lula da Silva em 14 de dezembro de 2006, durante o seu primeiro mandato."
   },
   {
+    "id": 49,
     "n": 1,
     "c": 3,
     "t": "O Flávio Bolsonaro é contra acabar com as bets",
-    "v": "A afirmação é parcialmente verdadeira (com distinção de modalidades): Flávio Bolsonaro se posicionou contra a proibição total das apostas esportivas (as bets de futebol), alegando respeito à segurança jurídica e a regras vigentes, mas defendeu proibir terminantemente os cassinos online (como o 'jogo do tigrinho'), apontando-os como causadores do endividamento das famílias."
+    "v": "Parcialmente verdadeiro. Após a MP 1.394/2026 (25/09/2026), que proibiu todas as apostas de quota fixa, Flávio Bolsonaro chamou a medida de \"hipócrita, eleitoreira e populista\" e disse que, se eleito, manteria as apostas esportivas de quota fixa. Ao mesmo tempo, disse ser pessoalmente contra as bets (\"sou contra, mas é o que está em vigor\") e prometeu acabar com os cassinos online, como o \"jogo do tigrinho\". Ou seja, ele não defende o fim de todas as bets, mas defende proibir os jogos de cassino online.",
+    "s": [
+      "https://sbtnews.sbt.com.br/noticia/politica/flavio-apoia-fim-das-bets-e-culpa-lula-pelo-jogo-do-tigrinho",
+      "https://www.dgabc.com.br/Noticia/4349086/mp-das-bets-e-atitude-hipocrita-eleitoreira-e-populista-diz-flavio-bolsonaro",
+      "https://www.gov.br/fazenda/pt-br/composicao/orgaos/secretaria-de-premios-e-apostas/medida-provisoria-ndeg-1-394-2026-entenda-as-novas-regras-para-as-apostas-de-quota-fixa"
+    ]
   },
   {
+    "id": 50,
     "n": 1,
     "c": 2,
     "t": "O governo Bolsonaro aprovou o jogo do tigrinho",
     "v": "A afirmação é falsa: o jogo do tigrinho (cassino online) não foi aprovado pelo governo Bolsonaro. As apostas esportivas foram legalizadas em 2018 por Michel Temer, com prazo de regulamentação que expirou sem ação sob Bolsonaro."
   },
   {
+    "id": 51,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "O Lula zerou o orçamento federal para o ensino integral",
-    "v": "O governo transferiu o custeio da política de escolas em tempo integral para dentro do Fundeb (Fundo de Manutenção e Desenvolvimento da Educação Básica), mantendo-o dentro da área da educação."
+    "v": "Impreciso. A Emenda Constitucional 135/2024 permitiu financiar matrículas em tempo integral com recursos do Fundeb, e a expectativa é que, a partir de 2026, a União deixe de custear essas matrículas com recursos discricionários do orçamento do MEC, passando o custeio a transferências obrigatórias do Fundeb. Portanto, a verba própria do programa saiu do orçamento federal, mas o financiamento da política continua por outro canal; dizer que o orçamento foi \"zerado\" é exagero.",
+    "s": [
+      "https://www.infomoney.com.br/politica/fundeb-abono-supersalarios-como-ficou-a-pec-do-pacote-fiscal-aprovada-no-congresso/",
+      "https://noticiamarajo.com.br/educacao/guia-orienta-uso-do-fundeb-em-matricula-de-tempo-integral/",
+      "https://www.gov.br/mec/pt-br/financiamento-da-educacao-basica/fundeb-tempo-integral"
+    ]
   },
   {
+    "id": 52,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "Lula é o pai do Tigrinho",
-    "v": "As apostas esportivas e de quota fixa (as chamadas bets) foram legalizadas no Brasil em dezembro de 2018, por meio da Lei nº 13.756/2018, sancionada pelo então presidente Michel Temer."
+    "v": "Em grande parte fundamentada, mas retórica. A Lei 13.756/2018, sancionada por Michel Temer, autorizou as apostas esportivas de quota fixa e não foi regulamentada no governo Bolsonaro. Foi a Lei 14.790/2023, sancionada por Lula, que incluiu os jogos online, como o \"tigrinho\", no mercado de apostas de quota fixa regulamentado, e Lula assinou a MP 1.394, de 25/09/2026, que proibiu as bets nove dias antes do 1º turno. \"Pai do tigrinho\" é opinião: o governo Lula legalizou e regulou esses jogos, mas não os inventou nem criou as apostas.",
+    "s": [
+      "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14790.htm",
+      "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13756.htm",
+      "https://www.gov.br/fazenda/pt-br/composicao/orgaos/secretaria-de-premios-e-apostas/medida-provisoria-ndeg-1-394-2026-entenda-as-novas-regras-para-as-apostas-de-quota-fixa",
+      "https://sbtnews.sbt.com.br/noticia/politica/flavio-apoia-fim-das-bets-e-culpa-lula-pelo-jogo-do-tigrinho"
+    ]
   },
   {
+    "id": 53,
     "n": 1,
     "c": 3,
     "t": "O governo Bolsonaro deixou 5 mil creches e escolas paralisadas",
-    "v": "A afirmação é exagerada: dados do Ministério da Educação (MEC) e do FNDE registraram cerca de 3,6 mil obras da educação básica paralisadas ou inacabadas ao fim de 2022 (e não 5 mil). A cifra de 5 mil infla o dado somando quadras e reformas, e auditorias do TCU mostram que boa parte dos entraves vinha se arrastando desde gestões anteriores por abandono de empreiteiras."
+    "v": "Impreciso. Antes da Lei 14.719/2023, o Simec listava cerca de 3,6 mil obras da educação básica paralisadas ou inacabadas (3.640; outra contagem do FNDE falava em 3.585). O número de 5.641 vem do Pacto Nacional pela Retomada de Obras, que ampliou a elegibilidade para obras atrasadas, com baixo avanço físico ou em licitação, incluindo quadras e reformas. Além disso, cerca de 96% das obras paradas tinham convênios firmados entre 2007 e 2016, anteriores ao governo Bolsonaro, embora tenham permanecido paradas nele.",
+    "s": [
+      "https://www.poder360.com.br/educacao/nordeste-e-norte-podem-retomar-4-100-obras-educacionais/",
+      "https://diariodonordeste.verdesmares.com.br/ceara/o-que-foi-anunciado-por-camilo-santana-e-lula-no-ceara-sobre-a-retomada-de-obras-de-escolas-paradas-1.3368547",
+      "https://brasil61.com/n/termina-nesta-sexta-feira-22-adesao-ao-pacto-nacional-pela-retomada-de-obras-da-educacao-basica-e-profissionalizante-bras2310475"
+    ]
   },
   {
+    "id": 54,
     "n": 2,
     "c": 3,
     "t": "O governo Bolsonaro anistiou 99% das dívidas do FIES",
     "v": "A afirmação é parcial (com distorção de escopo): Bolsonaro sancionou a Lei 14.375/2022, que permitiu descontos de até 99% no saldo devedor, mas não houve anistia geral de 99% das dívidas. O abatimento máximo valeu apenas para inadimplentes há mais de 360 dias inscritos no CadÚnico ou Auxílio Brasil; os demais tiveram descontos menores (de 12% a 77%)."
   },
   {
+    "id": 55,
     "n": 1,
-    "c": 1,
+    "c": 3,
     "t": "Encontramos 5600 escolas paralisadas.",
-    "v": "Verdadeiro. O levantamento inicial do Pacto Nacional mapeou exatamente 5.642 obras de educação básica financiadas pelo Fundo Nacional de Desenvolvimento da Educação (FNDE) que estavam travadas em 2022. "
-  },   
-  {
-    "n": 2,
-    "c": 2,
-    "t": "A nota do PISA é uma das piores por conta do governo Lula",
-    "v": "A afirmação é falsa: o baixo desempenho no Pisa é um problema histórico e estrutural do Brasil desde o início da avaliação em 2000, e não exclusividade de um governo. Os testes avaliam alunos de 15 anos — reflexo de toda a trajetória na educação básica —, com notas estagnadas sob FHC, Lula, Dilma, Temer e Bolsonaro, mantendo o país historicamente no terço inferior do ranking da OCDE."
+    "v": "Impreciso. O número 5.641 corresponde ao total de obras da educação básica e profissionalizante aptas ao Pacto Nacional pela Retomada de Obras (dados de dez/2023), e não só às paralisadas: inclui obras inacabadas, atrasadas, com baixo avanço físico e em licitação, além de quadras e reformas. Antes da ampliação da elegibilidade pela Lei 14.719/2023, o Simec listava cerca de 3,6 mil obras paralisadas ou inacabadas. Portanto, \"5.600 escolas paralisadas\" superdimensiona o que estava de fato parado.",
+    "s": [
+      "https://www.poder360.com.br/educacao/nordeste-e-norte-podem-retomar-4-100-obras-educacionais/",
+      "https://brasil61.com/n/termina-nesta-sexta-feira-22-adesao-ao-pacto-nacional-pela-retomada-de-obras-da-educacao-basica-e-profissionalizante-bras2310475",
+      "https://diariodonordeste.verdesmares.com.br/ceara/o-que-foi-anunciado-por-camilo-santana-e-lula-no-ceara-sobre-a-retomada-de-obras-de-escolas-paradas-1.3368547"
+    ]
   },
   {
+    "id": 56,
+    "n": 2,
+    "c": 3,
+    "t": "A nota do PISA é uma das piores por conta do governo Lula",
+    "v": "Impreciso. No Pisa 2025 (divulgado em 08/09/2026), o Brasil teve 377 em matemática (379 em 2022), 408 em leitura (410) e 409 em ciências (403 em 2022, a maior da série). Matemática e leitura ficaram abaixo dos picos de 2012 (389) e 2018 (413), e o país segue bem abaixo da média da OCDE (469 em matemática). Mas o Inep aponta o Brasil entre os países que mais avançaram desde 2006, e o teste avalia alunos de 15 anos, resultado de toda a trajetória escolar, e não só do governo atual.",
+    "s": [
+      "https://agenciagov.ebc.com.br/noticias/202609/pisa-brasil-esta-entre-os-paises-que-mais-avancaram-em-educacao-nos-ultimos-20-anos",
+      "https://static.poder360.com.br/uploads/2026/09/Resultados_Pisa_2025_Final.pdf"
+    ]
+  },
+  {
+    "id": 57,
     "n": 2,
     "c": 3,
     "t": "O governo do PT acabou com os JEBs (Jogos Escolares Brasileiros)",
-    "v": "Enganosa. Os Jogos Escolares Brasileiros tradicionais deixaram de ser realizados após 2004, durante o primeiro governo Lula, mas a interrupção se estendeu por diferentes governos e ocorreu em meio a mudanças no formato das competições escolares nacionais. Outras competições ocuparam esse espaço nesse período. Os JEBs foram retomados em 2021, durante o governo Bolsonaro. Assim, dizer que “o PT acabou com os JEBs” simplifica a história e atribui exclusivamente a um partido uma interrupção de 17 anos."
+    "v": "Impreciso. O Ministério do Esporte informou, em 2020, que os JEBs seriam retomados em 2021 e que a última edição anterior havia sido em 2004 (primeiro governo Lula). A pausa de cerca de 17 anos, porém, atravessou governos do PT, Temer e o início do governo Bolsonaro, então atribuí-la a 'o governo do PT' simplifica a história. Além disso, a edição de 2023, já no governo Lula, foi apontada pelo Ministério do Esporte como a maior da história (mais de 6.714 inscritos), o que contradiz a ideia de que o PT teria acabado com os jogos.",
+    "s": [
+      "https://www.gov.br/esporte/pt-br/noticias-e-conteudos/esporte/noticias_esporte/jebs-serao-retomados-em-2021-e-valerao-como-seletiva-para-os-sul-americanos-escolares",
+      "https://www.correiodamanha.com.br/esporte/2023/10/101123-jogos-escolares-brasileiros-recorde.html",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
+    "id": 58,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "Declarou solidariedade para Ana Clara na platéia",
-    "v": "Porém Ana Clara foi a vítima e não estava presente."
+    "v": "Impreciso. Ana Clara Gomes Machado, de 5 anos, morreu em 2021 e não poderia estar na plateia. Segundo a checagem do debate, Flávio prestou solidariedade à mãe da menina, que assistia ao debate, e no mesmo trecho disse ter 'confiança que não foi esse policial'. Ou seja, a solidariedade foi dirigida à mãe, não a Ana Clara. Registro baseado na checagem de referência do debate; não encontrei outra fonte independente que confirme o gesto.",
+    "s": [
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
+    "id": 59,
     "n": 2,
     "c": 3,
     "t": "O Lula é a favor da saidinha dos presos",
-    "v": "O presidente Luiz Inácio Lula da Silva defende a manutenção das saídas temporárias ('saidinhas') para detentos que possuem bom comportamento e cumprem penas por crimes não graves"
+    "v": "Parcialmente correto. Em abril de 2024, Lula vetou o trecho da Lei 14.843/2024 que acabava com as saídas temporárias para visita à família, mantendo esse direito aos presos do semiaberto. O Congresso derrubou o veto em 28/05/2024 (52 a 11 no Senado; 314 a 126 na Câmara, segundo o Congresso em Foco). Assim, há registro de que Lula se posicionou a favor de manter esse tipo de saidinha, mas ele sancionou o restante da lei, que passou a limitar as saídas a educação e trabalho; não há comprovação de que defenda as saidinhas de forma geral.",
+    "s": [
+      "https://www.congressoemfoco.com.br/area/congresso-nacional/em-derrota-para-lula-congresso-derruba-veto-em-lei-do-fim-das-saidinhas/",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
+    "id": 60,
     "n": 2,
     "c": 3,
     "t": "O Lula é contra a redução da maioridade penal",
-    "v": "A afirmação é desatualizada: historicamente, Lula e o PT sempre se opuseram à redução da maioridade penal. Contudo, em sabatina recente em outubro de 2026, Lula mudou de posição e declarou ser a favor de reduzir a maioridade para 16 anos exclusivamente em casos de crimes hediondos (como estupro e latrocínio), defendendo que o debate ocorra em texto separado da PEC da Segurança."
+    "v": "Desatualizada. Historicamente Lula e o PT se opõem à redução da maioridade penal, mas em entrevista à TV Globo em 15/10/2026 Lula disse ser favorável a reduzir de 18 para 16 anos nos casos de crimes hediondos ('todo e qualquer crime hediondo, eu sou favorável a diminuir'). Ele ressalvou que o tema não deve ser discutido na PEC da Segurança Pública. Portanto, afirmar que Lula é contra a redução ignora a mudança de posição, embora ele continue contrário a incluí-la nessa PEC.",
+    "s": [
+      "https://diariodonordeste.verdesmares.com.br/pontopoder/lula-diz-ser-favoravel-a-proposta-de-camilo-que-reduz-maioridade-penal-para-crimes-hediondos-1.3799020",
+      "https://www.jb.com.br/brasil/politica/2026/10/1061249-lula-defende-reduzir-maioridade-penal-para-16-anos-em-entrevista.html"
+    ]
   },
   {
+    "id": 61,
     "n": 1,
-    "c": 1,
+    "c": 3,
     "t": "Flávio Bolsonaro advogou em favor de um policial que atirou e matou uma criança de 5 anos",
-    "v": "Verdadeira, com ressalvas. Flávio Bolsonaro integrou a defesa do policial militar Bruno Dias Delaroli, acusado pelo Ministério Público do Rio de Janeiro de matar Ana Clara Gomes Machado, de cinco anos, com um disparo de fuzil em Niterói, em 2021. Em 2024, Flávio assinou um recurso contra a decisão de levar o caso a júri popular, mas o STJ rejeitou o pedido. A afirmação de que ele defendeu juridicamente o policial é comprovada."
+    "v": "Em grande parte correto, com ressalva. Flávio Bolsonaro integrou, a partir de 2024, a defesa do cabo da PM Bruno Dias Delaroli, réu pelo Ministério Público do RJ pela morte de Ana Clara Gomes Machado, de 5 anos, em Niterói (02/02/2021), e assinou recurso ao STJ contra o envio do caso a júri, negado. A promotoria afirma que o tiro fatal partiu do fuzil do cabo, mas ele ainda não foi julgado (júri remarcado de 21/10/2026 para 05/05/2027) e a defesa fala em troca de tiros. Dizer que o policial 'atirou e matou' é, portanto, uma acusação ainda não decidida pela Justiça.",
+    "s": [
+      "https://www.congressoemfoco.com.br/noticia/123363/caso-ana-clara-fica-no-topo-do-trends-entenda-envolvimento-de-flavio",
+      "https://www.metropoles.com/brasil/flavio-ana-clara-caso-lula-pm",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
+    "id": 62,
     "n": 2,
     "c": 3,
     "t": "Vai aumentar a pena para ladrões de celular para 8 anos",
-    "v": "A pena para roubo de celular já é de 8 anos. A pena base são 6 anos + 1/3 de fração mínima"
+    "v": "Impreciso. Flávio prometeu, em 15/10/2026, pena mínima de 8 anos, em regime fechado, para roubo de celular e revenda de aparelhos. Hoje o roubo (art. 157 do Código Penal) tem pena de 4 a 10 anos de reclusão, com aumento de 1/3 até metade em casos como concurso de pessoas ou arma branca, e de 2/3 com arma de fogo. Portanto, a pena não é fixa em 8 anos: o mínimo legal é de 4 anos (5 anos e 4 meses com a menor majorante), e a proposta elevaria esse piso para 8.",
+    "s": [
+      "https://m.imirante.com/noticias/brasil/2026/10/16/ipolitica-flavio-bolsonaro-propoe-8-anos-prisao-roubo-celular",
+      "https://timesbrasil.com.br/brasil/decisao-2026-flavio-propoe-pena-minima-de-8-anos-para-roubo-de-celular-e-lula-apoia-reducao-de-maioridade-penal-em-crimes-graves-veja-o-dia-dos-candidatos-ao-planalto/",
+      "https://advbox.com.br/blog/penal-qual-a-diferenca-entre-roubo-e-furto/"
+    ]
   },
   {
+    "id": 63,
     "n": 2,
     "c": 2,
     "t": "Lula defendeu ladrões que roubam celulares e compram 'cervejinha'",
-    "v": "A alegação já foi desmentida pelo Estadão Verifica em mais de uma ocasião (veja aqui e aqui). A peça desinformativa surgiu de uma antiga entrevista do petista, que foi editada para parecer que Lula defendeu o roubo de celular para ladrões tomarem uma “cervejinha”. Na entrevista original, ele não fala nada disso. https://www.estadao.com.br/estadao-verifica/deputados-impulsionaram-anuncios-com-boato-falso-sobre-lula-e-roubo-de-celular/?srsltid=AYCX9vJUjHGXIs5wXBGNfetGkQPSnGkZVy0OCPTU9fSlua_6FuJe8uME"
+    "v": "Falso. Não há registro de Lula defendendo ladrões de celular. O vídeo é uma montagem que une dois trechos de uma entrevista de Lula a rádios de Pernambuco (2017): um sobre pobreza e violência, outro sobre torcidas rivais do Recife que 'tomam cerveja juntos'. Em outubro de 2022, a ministra Maria Claudia Bucchianeri, do TSE, suspendeu propaganda de Bolsonaro que usava a montagem, citando a edição que passava mensagem inverídica.",
+    "s": [
+      "https://www.poder360.com.br/eleicoes/tse-suspende-propaganda-de-bolsonaro-que-associa-lula-a-ladroes/",
+      "https://agencialupa.substack.com/p/13507992_lente-65-29-07-2022",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
+    "id": 64,
     "n": 2,
     "c": 3,
     "t": "O ex-PM não matou Ana Clara",
-    "v": "A afirmação é imprecisa juridicamente: o ex-PM foi apontado pela Polícia Civil e denunciado pelo Ministério Público como autor dos tiros de fuzil que mataram a menina Ana Clara (5 anos) em 2021, sendo pronunciado para ir a júri popular por homicídio qualificado, mas o julgamento ainda não ocorreu para determinar sua culpa ou absolvição: https://g1.globo.com/rj/rio-de-janeiro/noticia/2021/02/03/policial-preso-por-morte-de-menina-de-5-anos-em-niteroi-foi-indiciado-por-homicidio-qualificado.ghtml"
+    "v": "Não comprovada, depende de julgamento. O Ministério Público do RJ afirma que o disparo fatal partiu do fuzil do cabo Bruno Dias Delaroli, que responde por homicídio em liberdade desde novembro de 2021; a perícia achou só cápsulas 7,62 compatíveis com o fuzil e nenhuma de pistola, o que contesta a versão de troca de tiros. A defesa sustenta a versão de troca de tiros. O júri, que seria em 21/10/2026, foi remarcado para 05/05/2027, então ainda não há decisão judicial sobre se ele matou a menina; afirmar que 'não matou' é prematuro, assim como dar a culpa por definitiva.",
+    "s": [
+      "https://www.congressoemfoco.com.br/noticia/123363/caso-ana-clara-fica-no-topo-do-trends-entenda-envolvimento-de-flavio",
+      "https://www.metropoles.com/brasil/flavio-ana-clara-caso-lula-pm",
+      "https://verifiqueaverdade.com.br/debates/globo-2026-10-23/"
+    ]
   },
   {
+    "id": 65,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "Vai criar a casa da mulher brasileira",
-    "v": "Este programa já existe desde 2015, tendo sido implementado originalmente no governo Dilma Rousseff, e reúne em um mesmo espaço serviços especializados para mulheres vítimas de violência."
+    "v": "Flávio prometeu 'criar' a Casa da Mulher Brasileira, mas o programa já existe. O Decreto 8.086, de 30/08/2013 (governo Dilma), instituiu o Programa Mulher: Viver sem Violência e previu a implantação das Casas da Mulher Brasileira; a primeira foi inaugurada em Campo Grande (MS) em 03/02/2015. O governo Bolsonaro alterou esse decreto pelo Decreto 10.112, de 12/11/2019, e manteve as Casas no Programa Mulher Segura e Protegida. Segundo o Ministério das Mulheres, o Brasil tem hoje 13 unidades em funcionamento. Prometer criar ou ampliar unidades é uma proposta legítima, mas apresentá-la como algo novo é impreciso.",
+    "s": [
+      "https://www2.camara.leg.br/legin/fed/decret/2013/decreto-8086-30-agosto-2013-776947-normaatualizada-pe.pdf",
+      "https://www2.camara.leg.br/legin/fed/decret/2013/decreto-8086-30-agosto-2013-776947-publicacaooriginal-140965-pe.html",
+      "https://juristas.com.br/2019/11/13/instituido-o-programa-mulher-segura-e-protegida/",
+      "https://ibdfam.org.br/noticias/5133/+Presid%C3%AAncia+da+Rep%C3%BAblica+institui+Programa+Mulher:+Viver+sem+Viol%C3%AAncia",
+      "https://www.gov.br/mdh/pt-br/sdh/noticias/2015/janeiro/inaugurada-primeira-casa-da-mulher-brasileira-em-campo-grande-ms",
+      "https://www.gov.br/mulheres/pt-br/central-de-conteudos/noticias/2026/agosto-defeso-eleitoral/casa-da-mulher-brasileira-como-funciona-o-atendimento-e-onde-encontrar-uma-unidade",
+      "https://www.cartacapital.com.br/politica/flavio-bolsonaro-promete-criar-a-casa-da-mulher-brasileira-que-ja-existe/"
+    ]
   },
   {
+    "id": 66,
     "n": 1,
     "c": 3,
     "t": "Amigo de Flavio roubou a ilha do jogador Richarlison",
-    "v": "parcialmente verdade, há uma disputa judicial em andamento para a apuração dos fatos. O processo de posse que geralmente demora muito tempo foi feito em menos de uma semana para Willer Tomaz. Referencias: https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml"
+    "v": "Impreciso. Richarlison diz ter investido cerca de R$ 10 milhões na casa da Ilha Comprida (Angra dos Reis) e que perdeu a posse para a empresa de Willer Tomaz, amigo de Flávio, que nega envolvimento e diz ter sido apenas testemunha. O processo na SPU de transferência para a empresa de Tomaz, aberto em maio de 2022, teve a certidão emitida em 11/07/2022 e foi encerrado em 12/07/2022, enquanto o pedido ligado a Richarlison, de setembro de 2021, não foi concluído. A Justiça decidiu a favor da empresa de Tomaz (STJ, 2025), e a PF passou a apurar o caso. Há fatos que apoiam a crítica à rapidez do processo, mas 'roubou' ainda não está comprovado.",
+    "s": [
+      "https://www.polemicaparaiba.com.br/politica/richarlison-revela-documentos-que-provariam-que-willer-tomaz-amigo-de-flavio-bolsonaro-tomou-ilha/",
+      "https://bpmoney.com.br/politica/richarlison-flavio-bolsonaro-ilha-angra-polemica/",
+      "https://www.metropoles.com/brasil/em-debate-flavio-diz-que-richarlison-tomou-volta-do-proprio-empresario"
+    ]
   },
   {
+    "id": 67,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "Lula disse que vai acabar com a Polícia",
-    "v": "O governo de Lula não defende o fim das forças policiais, mas sim a integração das polícias por meio de propostas como a PEC da Segurança Pública (que busca ampliar a atuação conjunta da União, Polícia Federal, Polícia Rodoviária Federal e Polícia Penal) e o estímulo a mecanismos de controle e transparência, como o uso de câmeras corporais - https://noticias.uol.com.br/confere/ultimas-noticias/2023/01/20/flavio-dino-extincao-policia-militar-checagem.htm"
+    "v": "Impreciso. Lula disse, ao falar da PEC da Segurança e da criação de um ministério: 'você vai ver o que é um governo acabar, sabe, com a polícia e deixar o território livre'. A frase saiu truncada e contraditória com o resto da fala, e aliados de Flávio a chamaram de ato falho. Não há proposta do governo Lula de extinguir as polícias; a PEC trata de ampliar a atuação integrada. Dizer que Lula 'vai acabar com a polícia' toma uma frase confusa como promessa. Lula não explicou a frase durante o debate, e a intenção dele não é comprovável.",
+    "s": [
+      "https://jornalrazao.com/politica/direita-viraliza-fala-lula-acabar-com-a-policia-debate-globo",
+      "https://www.blogdobg.com.br/video-debate-da-globo-lula-diz-que-vai-acabar-com-a-policia-se-a-pec-da-seguranca-for-aprovada/"
+    ]
   },
   {
+    "id": 68,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "O coronel do SPU não foi indicado por mim",
-    "v": "A afirmação é falsa: o coronel do Exército Paulo da Silva Medeiros, que chefiou a Superintendência do Patrimônio da União no Rio de Janeiro (SPU-RJ) a partir de 2019 e durante as decisões sobre o imóvel em Angra dos Reis, foi alçado ao cargo por apadrinhamento e indicação política direta de Flávio Bolsonaro: https://revistaforum.com.br/politica/mansao-em-angra-favorecimento-willer-tomaz-flavio-bolsonaro/"
+    "v": "Não comprovado. Lula perguntou no debate se Flávio indicou o coronel da SPU, e Flávio respondeu que não indicou ninguém. O coronel Paulo da Silva Medeiros foi nomeado superintendente da SPU no Rio em fevereiro de 2019, pelo Ministério da Economia do governo Bolsonaro, que disse ter escolhido por critérios técnicos. O pedido de transferência de Willer Tomaz foi protocolado em 11/05/2022 e aprovado em 12/07/2022, segundo reportagem do Metrópoles que cita o deputado Rogério Correia. Nenhuma fonte consultada traz documento ou registro de quem fez a indicação de Medeiros; a atribuição a Flávio aparece em reportagens e em acusações de adversários, e a defesa de Tomaz nega favorecimento. Sem prova, não dá para afirmar que a negativa de Flávio é falsa.",
+    "s": [
+      "https://www.metropoles.com/brasil/em-debate-flavio-diz-que-richarlison-tomou-volta-do-proprio-empresario",
+      "https://www.metropoles.com/minas-gerais/deputado-petista-denuncia-suposto-favorecimento-a-amigo-de-flavio",
+      "https://www.congressoemfoco.com.br/noticia/32724/em-alta-no-governo-militares-ocupam-secretaria-de-patrimonio-da-uniao"
+    ]
   },
   {
+    "id": 69,
     "n": 2,
     "c": 3,
     "t": "Lula recebeu garrafa de uísque de 500 mil reais",
-    "v": "Há mensagens liberadas pela policia federal de uma encomenda do Daniel Vorcaro, mas não há provas que o presente foi entregue. https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/22/uisque-que-vorcaro-teria-dado-a-lula-custou-r-500-mil-apontam-mensagens.ghtm"
+    "v": "Impreciso. Mensagens do celular de Vorcaro apreendido pela PF mostram que, em 29/10/2024, ele pediu um Macallan 1945 de cerca de R$ 495 mil dizendo 'preciso dar pro Lula'. Em janeiro de 2025, o advogado Walfrido Warde escreveu a Vorcaro que Lula 'agradeceu mais uma vez o whisky'. Não há registro de como ou quando a garrafa foi entregue, e a Presidência nega ter recebido presentes de Vorcaro (o uísque não consta da lista oficial de presentes). Lula disse: 'Se ele me deu uísque, já bebi'. A encomenda está nas mensagens, mas o recebimento só aparece no relato de terceiro.",
+    "s": [
+      "https://www.poder360.com.br/poder-justica/vorcaro-escolheu-whisky-de-r-500-mil-para-presentear-lula/",
+      "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/22/uisque-que-vorcaro-teria-dado-a-lula-custou-r-500-mil-apontam-mensagens.htm"
+    ]
   },
   {
+    "id": 70,
     "n": 1,
-    "c": 1,
+    "c": 3,
     "t": "Flávio quer remover a numeração dos lotes das munições",
-    "v": "Verdadeiro, o projeto é apoiado oficialmente pelo Flávio Bolsonaro - https://oglobo.globo.com/brasil/noticia/2026/10/22/especialistas-veem-riscos-a-investigacao-com-retirada-da-marcacao-de-municoes-sugerida-em-projeto-de-flavio-bolsonaro.ghtml"
+    "v": "Em grande parte procede, mas é impreciso. O PL 3.723/2019, enviado pelo governo Jair Bolsonaro e aprovado na Câmara, revoga o art. 23 do Estatuto do Desarmamento, que exige o código de barras nas embalagens e a marcação de lote e comprador nas munições de órgãos de segurança. Flávio não é o autor: em 2022, na CCJ do Senado, defendeu a votação imediata do projeto, e na sabatina do Jornal Nacional (16/10/2026) chamou o tema de 'detalhezinho'. Ele não disse expressamente que quer acabar com a marcação, mas defendeu o projeto que a elimina. Especialistas apontam que isso prejudicaria o rastreamento de munições em crimes.",
+    "s": [
+      "https://www.congressoemfoco.com.br/noticia/123345/cartuchos-sem-registro-entenda-projeto-citado-na-sabatina-de-flavio",
+      "https://www.termometrodapolitica.com.br/eleicoes/noticia/2026/10/19/entenda-o-papel-de-flavio-bolsonaro-no-projeto-para-remover-marcacao-de-municoes-e-dificultar-investigacoes/",
+      "https://www.poder360.com.br/poder-eleicoes-2026/flavio-chama-rastreamento-de-municoes-de-detalhezinho/"
+    ]
   },
   {
+    "id": 71,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "Polícia Federal disse que não teve dinheiro público no filme Dark Horse",
-    "v": "Investigação identificou que empresa de Fabiano Zettel, ex-pastor e braço-direito de Vorcaro, mandou R$ 12 milhões para a Entre Investimentos na véspera da primeira remessa aos EUA para pagar o filme sobre Jair Bolsonaro. Parte do dinheiro que Daniel Vorcaro enviou para os Estados Unidos para bancar o filme “Dark Horse”, a cinebiografia do ex-presidente Jair Bolsonaro, saiu de uma empresa de Fabiano Zettel ligada diretamente à fraude do banco Master. A conclusão é da Polícia Federal, em um despacho de 15 de outubro de 2026, obtido pelo Intercept Brasil. - https://www.intercept.com.br/2026/10/23/documento-pf-flavio-dinheiro-ilegal-vorcaro-dark-horse/"
+    "v": "Impreciso. Nos relatórios da PF noticiados (outubro de 2026) não consta a conclusão de que o filme não usou dinheiro público: a PF apontou 'divergência contábil severa', pois mais de US$ 12 milhões saíram do país e só US$ 2,8 milhões tiveram entrada registrada. Segundo a PF, os recursos saíram da Entre Investimentos, ligada a Vorcaro, para um fundo nos EUA, e ela pediu mais 90 dias de inquérito e perícia para saber se o dinheiro foi usado no filme. A apuração também analisa emendas parlamentares destinadas a entidades ligadas à produtora, que o deputado Mario Frias nega terem sido usadas no filme. A tese de que não houve dinheiro público vem da defesa e de perícia contratada pela produtora, e não da PF.",
+    "s": [
+      "https://www.terra.com.br/noticias/brasil/policia/dark-horse-pf-aponta-divergencia-severa-entre-recursos-enviados-ao-exterior,f3adfe45f7e571df50cf4aceab637798tsmr2tey.html",
+      "https://fanf1.com.br/2026/10/17/dark-horse-pf-aponta-divergencia-entre-recursos-enviados-ao-exterior-e-os-que-retornaram-ao-brasil-para-filme-sobre-bolsonaro/",
+      "https://diariodocentrodomundo.com.br/de-dark-horse-a-municoes-as-mentiras-de-flavio-no-4o-bloco-do-debate"
+    ]
   },
   {
+    "id": 72,
     "n": 2,
-    "c": 2,
+    "c": 3,
     "t": "Lula recebeu 30 milhões para filme “por fora”",
-    "v": "Falso, os próprios advogados de Daniel Vorcaro negaram a afirmação - https://www.cnnbrasil.com.br/eleicoes/vorcaro-cita-r-30-milhoes-a-filme-de-lula-o-que-sabemos-ate-agora/"
+    "v": "Sem comprovação. Flávio citou o conteúdo divulgado pela Veja em 09/10/2026, em que Vorcaro falaria de R$ 30 milhões pagos em dinheiro, 'por fora', para o documentário 'Lula' (2024). A reportagem não apresentou comprovante de pagamento, e a PF disse que Vorcaro não prestou depoimento nem entregou documentos com esse conteúdo. A PGR disse que ele não prestou depoimento oral. A defesa de Vorcaro diz que não confirma a origem, a autenticidade nem o conteúdo do material. A equipe de Oliver Stone e os produtores negam ter recebido dinheiro de Vorcaro, e a campanha de Lula contesta a reportagem. Dar como fato que o filme recebeu R$ 30 milhões não está comprovado.",
+    "s": [
+      "https://www.cnnbrasil.com.br/eleicoes/vorcaro-cita-r-30-milhoes-a-filme-de-lula-o-que-sabemos-ate-agora/",
+      "https://www.gazetadopovo.com.br/republica/em-audio-vorcaro-compara-repasses-a-filmes-do-lula-foi-errado-do-flavio-nao-foi/",
+      "https://www.agencialupa.org/reportagem/2026/10/09/vorcaro-patrocinou-filme-sobre-lula-o-que-se-sabe-ate-agora/",
+      "https://ncnews.com.br/2026/10/10/oliver-stone-rebate-relato-de-vorcaro-e-nega-r-30-milhoes-para-filme-sobre-lula/"
+    ]
   },
   {
+    "id": 73,
     "n": 1,
-    "c": 1,
-    "t": "Enquanto morriam milhares de pessoas Bolsonaro estava fazendo festa em um barco",
-    "v": "O episódio refere-se a uma investigação jornalística detalhada sobre um passeio de barco no Lago Paranoá (Brasília) em 17 de julho de 2020, no auge da pandemia de Covid-19, quando o país registrava mais de mil mortes diárias pela doença (1.299 mortes registradas pelo consórcio de imprensa na véspera e 1.110 no próprio dia) - https://piaui.uol.com.br/web/flavio-bolsonaro-churrasco-lancha-vacina/"
+    "c": 3,
+    "t": "Enquanto morriam milhares de pessoas Flávio Bolsonaro estava fazendo festa em um barco",
+    "v": "Segundo reportagem da revista piauí (21/10/2026), reproduzida por outros veículos, em 17/07/2020 o senador Flávio Bolsonaro, e não Jair Bolsonaro, participou de um passeio de lancha no Lago Paranoá, em Brasília, organizado pelos empresários Danilo Trento e Francisco Maximiano, da Precisa Medicamentos (intermediária da Covaxin), com o sócio Alexandre Santini. Na época o país já somava cerca de 77 mil mortes por Covid-19 e registrava mais de mil óbitos por dia. O relato é jornalístico: Flávio não havia se manifestado até a publicação, Trento interrompeu o contato com a revista e os advogados de Maximiano não responderam. A reportagem não descreve negociação da vacina a bordo; por isso o fato é sustentado em parte, mas a declaração é imprecisa.",
+    "s": [
+      "https://www.cartacapital.com.br/politica/flavio-bolsonaro-participou-de-festa-em-lancha-com-prostitutas-e-lobistas-na-pandemia-revela-revista/",
+      "https://www.diariodepernambuco.com.br/politica/2026/10/11727353-flavio-participou-de-churrasco-em-lancha-com-lobistas-e-garotas-de-programa.html",
+      "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/17-de-julho-de-2020-uma-data-para-jamais-ser-esquecida"
+    ]
   },
   {
+    "id": 74,
     "n": 2,
     "c": 1,
     "t": "Lulinha vive no mesmo bairro que jogadores famosos",
-    "v": "Verdadeiro, Fábio Luís Lula da Silva, o Lulinha, mora no bairro de La Moraleja, uma área residencial de alto padrão no município de Alcobendas, na região metropolitana de Madri, na Espanha."
+    "v": "Verdadeiro quanto ao bairro. Fábio Luís Lula da Silva, o Lulinha, vive em La Moraleja, área residencial de alto padrão em Alcobendas, na região de Madri, e o jogador Vinícius Júnior, do Real Madrid, também tem mansão no mesmo bairro, assim como Rodrygo. A imprensa não confirma que seja o mesmo condomínio, apenas o mesmo bairro.",
+    "s": [
+      "https://www.poder360.com.br/poder-governo/veja-imagens-do-condominio-em-que-vive-lulinha-na-espanha/",
+      "https://www.eldebate.com/gente/20260804/mansion-vinicius-jr-cara-plantilla-real-madrid-sala-cine-pista-voley_444931.html",
+      "https://pleno.news/brasil/politica-nacional/lulinha-tem-vida-de-alto-padrao-e-e-vizinho-de-vinicius-jr-em-madri.html"
+    ]
   },
   {
+    "id": 75,
     "n": 2,
     "c": 3,
     "t": "Lula foi condenado por ocultação de patrimônio",
-    "v": "Parcialmente verdadeiro, apesar do presidente Lula ter sido condenado, o STF anulou todas as condenações impostas pela 13ª Vara Federal de Curitiba, declarando que o juízo de Curitiba era incompetente para julgar esses casos.."
-  }  
+    "v": "Impreciso. Lula foi condenado em primeira instância pela 13ª Vara Federal de Curitiba por corrupção passiva e lavagem de dinheiro nos casos do triplex do Guarujá e do sítio de Atibaia; a ocultação de bens aparece como forma de lavagem, não como crime autônomo. Em março de 2021 o ministro Edson Fachin anulou as condenações por incompetência do juízo de Curitiba, e o plenário do STF confirmou a decisão em abril de 2021. Assim, Lula não tem hoje condenação válida.",
+    "s": [
+      "https://jovempan.com.br/politica/fachin-anula-todos-os-processos-contra-lula-na-lava-jato-de-curitiba/",
+      "https://www.infomoney.com.br/?p=1624914",
+      "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    ]
+  },
+  {
+    "id": 76,
+    "n": 2,
+    "c": 3,
+    "a": "Economia e contas públicas",
+    "t": "Pegou o Brasil com cerca de 14 mil obras inacabadas e entregou com um pouco mais de 8 mil",
+    "v": "Impreciso. Os dois números existem: a auditoria do TCU de 2017-2019 apontou cerca de 14 mil obras paralisadas em um universo de 38 mil (cerca de 37%), e o TCU registrou 8.674 paralisadas em 2022, último ano do governo Bolsonaro, em 22.559 obras. Só que as bases são diferentes: o total de obras monitoradas caiu de 38 mil para cerca de 22 mil, e a proporção de obras paradas ficou praticamente igual (de ~37% para ~38,5%). Ou seja, a queda de 14 mil para 8 mil não indica, por si só, melhora na conclusão de obras. Em 2023 o TCU contou 8.603 paralisadas e, em 2024, 11.941.",
+    "s": [
+      "https://sites.tcu.gov.br/relatorio-de-politicas/2019/area_12.htm",
+      "https://portal.tcu.gov.br/imprensa/noticias/brasil-tem-86-mil-obras-paralisadas-financiadas-com-recursos-federais",
+      "https://www.gazetadopovo.com.br/republica/numero-de-obras-paradas-cresce-38-no-governo-lula-e-8-mil-nao-tem-previsao-de-conclusao/"
+    ]
+  },
+  {
+    "id": 77,
+    "n": 1,
+    "c": 3,
+    "a": "Economia e contas públicas",
+    "t": "Anunciamos um PAC de R$ 1,7 trilhão e quase R$ 800 bilhões já foram executados",
+    "v": "Impreciso. O Novo PAC foi anunciado em agosto de 2023 com R$ 1,7 trilhão, então o valor citado confere com o anúncio original; a página atual da Casa Civil já mostra R$ 1,9 trilhão no total. Sobre a execução, o governo informou em dezembro de 2025 R$ 944,8 bilhões executados até agosto (70,8% dos R$ 1,3 trilhão previstos para 2023-2026), acima dos 'quase 800' citados. Vale notar que esses valores somam investimento público e privado (estatais, financiamentos), não só dinheiro do Orçamento da União, e são números do próprio governo.",
+    "s": [
+      "https://sbtnews.sbt.com.br/noticia/economia/256394-novo-pac-preve-r-17-trilhao-em-investimentos-ate-2026",
+      "https://www.opovo.com.br/noticias/politica/2025/12/10/novo-pac-708-dos-rs-13-trilhao-ja-foram-executados.html",
+      "https://www.gov.br/casacivil/pt-br/novopac"
+    ]
+  },
+  {
+    "id": 78,
+    "n": 1,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "Herdou 6 mil obras paradas",
+    "v": "Verdadeiro, e o número até ficou abaixo do oficial. O TCU registrou 8.674 obras paralisadas em 2022, último ano do governo anterior, e 8.603 em 2023, sobre obras financiadas com recursos federais (inclusive as tocadas por estados e municípios). O essencial da fala se confirma, havia milhares de obras paradas no início do mandato, mas a cifra de 6 mil subestima a contagem do TCU.",
+    "s": [
+      "https://portal.tcu.gov.br/imprensa/noticias/brasil-tem-86-mil-obras-paralisadas-financiadas-com-recursos-federais",
+      "https://www.gazetadopovo.com.br/republica/numero-de-obras-paradas-cresce-38-no-governo-lula-e-8-mil-nao-tem-previsao-de-conclusao/"
+    ]
+  },
+  {
+    "id": 79,
+    "n": 2,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "Bolsonaro criou a regra de pedágio zero para motos nas concessões de rodovias",
+    "v": "Verdadeiro, com ressalva de alcance. A Portaria 104/2021 do Ministério da Infraestrutura, publicada em 12/08/2021, determinou que as novas concessões rodoviárias federais, ainda em fase de licitação, previssem isenção de pedágio para motocicletas, depois de Bolsonaro anunciar a intenção em maio de 2021. A regra vale para os novos contratos, não para as concessões já em vigor. Na Dutra, a concessionária CCR confirmou a isenção para motos desde que assumiu a rodovia, em março de 2022.",
+    "s": [
+      "https://www.gov.br/transportes/pt-br/assuntos/noticias/2021/8/portaria-estabelece-diretriz-de-politica-publica-de-isencao-de-cobranca-de-pedagio-para-motocicletas",
+      "https://www.infomoney.com.br/?p=1881372"
+    ]
+  },
+  {
+    "id": 80,
+    "n": 2,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "O governo Bolsonaro instalou mais de 21.300 pontos de internet em mais de 3.100 cidades, para mais de 11 milhões de pessoas",
+    "v": "Verdadeiro. Segundo o Ministério das Comunicações, em dezembro de 2022 o programa Wi-Fi Brasil tinha instalado 21,3 mil pontos de internet gratuita (via satélite e conexões terrestres) em cerca de 3,2 mil cidades, beneficiando mais de 11 milhões de pessoas; 76% dos pontos estão em escolas. Os números são do próprio ministério, divulgados no fim do governo, e a fala os reproduz com fidelidade.",
+    "s": [
+      "https://www.minhaoperadora.com.br/?p=109654"
+    ]
+  },
+  {
+    "id": 81,
+    "n": 1,
+    "c": 3,
+    "a": "Economia e contas públicas",
+    "t": "Estamos fazendo a BR-319, que liga Porto Velho a Manaus",
+    "v": "Impreciso. Há obras em andamento na BR-319: em maio de 2026 Lula visitou o Lote C (reconstrução com pavimentação, ~42% de avanço físico até dezembro de 2025) e foi assinada a ordem de início de melhoramentos em 120,5 km do Trecho do Meio, além de pontes entregues. Mas a ligação completa não está sendo pavimentada: o Ibama emitiu em maio de 2026 licença de instalação apenas para três pontes no Trecho do Meio, não para a pavimentação desse trecho. 'Estamos fazendo' vale para trechos e melhoramentos, não para a obra inteira.",
+    "s": [
+      "https://www.gov.br/dnit/pt-br/assuntos/noticias/presidente-lula-visita-o-amazonas-e-acompanha-agendas-em-importantes-empreendimentos-da-br-319-am",
+      "https://www.gov.br/dnit/pt-br/assuntos/noticias/dnit-recebe-licenca-de-instalacao-do-ibama-para-construcao-de-tres-pontes-no-trecho-do-meio-da-br-319-am"
+    ]
+  },
+  {
+    "id": 82,
+    "n": 1,
+    "c": 3,
+    "a": "Economia e contas públicas",
+    "t": "Estamos fazendo a Serra das Araras, uma obra de quase R$ 12 bilhões",
+    "v": "Impreciso. A nova pista da Serra das Araras, na Via Dutra, está em andamento (87% de avanço em outubro de 2026, com conclusão prevista para fevereiro de 2027), mas custa cerca de R$ 1,5 bilhão, bem longe dos 'quase 12 bilhões'. A obra é executada pela concessionária RioSP (grupo Motiva), no âmbito do contrato de concessão da rodovia, e não diretamente pelo governo federal.",
+    "s": [
+      "https://diariodorio.com/rio-de-janeiro/2026/10/21/nova-serra-das-araras-libera-quatro-viadutos-na-via-dutra-e-elimina-nove-curvas-perigosas.html",
+      "https://rodovias.motiva.com.br/riosp/noticias/2026/abril/nova-serra-das-araras-completa-dois-anos-de-obras-com-avanco-sup/"
+    ]
+  },
+  {
+    "id": 83,
+    "n": 1,
+    "c": 3,
+    "a": "Economia e contas públicas",
+    "t": "No túnel Santos-Guarujá, quem está colocando dinheiro para fazer somos nós",
+    "v": "Impreciso. O túnel imerso custa R$ 6,8 bilhões, em PPP com a Mota-Engil, e o aporte público é de cerca de R$ 5,1 bilhões, dividido entre a União (pouco mais de R$ 2,5 bilhões) e o governo de São Paulo; a parte paulista foi viabilizada por um empréstimo de R$ 2,5 bilhões do Banco do Brasil, anunciado em abril de 2026. A União é, portanto, uma das duas grandes financiadoras, mas não a única: o restante vem do estado e do parceiro privado. As obras mais pesadas só devem começar em 2027, com operação prevista para 2031.",
+    "s": [
+      "https://www.agenciasp.sp.gov.br/governo-de-sao-paulo-declara-mota-engil-vencedora-definitiva-da-ppp-do-tunel-santos-guaruja/",
+      "https://vtvnews.com.br/noticias/eleicoes/tunel-santos-guaruja-debate-globo-previsao-2031-rp/"
+    ]
+  },
+  {
+    "id": 84,
+    "n": 1,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "Sem os reajustes acima da inflação dos governos do PT, o salário mínimo seria apenas R$ 900",
+    "v": "Verdadeiro, em essência. O mínimo estava em R$ 200 em 2002 e vale R$ 1.621 em 2026 (Decreto 12.797/2025). Corrigindo os R$ 200 só pelo INPC do IBGE até novembro de 2025, o resultado fica em torno de R$ 805, ou seja, um pouco abaixo dos R$ 900 citados por Lula. Isso reforça a ideia central: sem o ganho real acumulado (o DIEESE registra cerca de 77% entre 2003 e 2016, mais os reajustes de 2023 em diante), o piso atual seria cerca da metade. O número exato de Lula está arredondado para cima.",
+    "s": [
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.188/dados?formato=json&dataInicial=01/01/2002&dataFinal=30/11/2025",
+      "https://www.tupi.fm/economia/governo-publica-decreto-que-reajusta-salario-minimo-para-r-1-621/",
+      "https://www.dieese.org.br/notatecnica/2015/notaTec153SalarioMinimo2016/4.html"
+    ]
+  },
+  {
+    "id": 85,
+    "n": 1,
+    "c": 1,
+    "a": "Programas sociais",
+    "t": "Nós aprovamos o fim da escala 6x1",
+    "v": "Verdadeiro, com a nuance de quem aprovou. A PEC 221/2019 foi aprovada pelo Senado em 14/10/2026 (75 a 1, em dois turnos), depois da Câmara, e promulgada pelo Congresso em 16/10/2026 como Emenda Constitucional 141. Ela prevê dois dias de descanso remunerado por semana e jornada de 44 para 40 horas, sem redução salarial, com transição (limite de 42 horas em 60 dias e 40 horas em 14 meses). Emenda constitucional não passa por sanção presidencial, então o ato foi do Congresso; Lula participou da cerimônia e celebrou a medida.",
+    "s": [
+      "https://atarde.com.br/politica/com-presenca-de-motta-congresso-promulga-fim-da-escala-6x1-1405921",
+      "https://www.diariodepernambuco.com.br/politica/2026/10/11726790-ao-vivo-congresso-promulga-pec-do-fim-da-escala-6x1.html"
+    ]
+  },
+  {
+    "id": 86,
+    "n": 2,
+    "c": 3,
+    "a": "Economia e contas públicas",
+    "t": "Lula implementou a carga tributária mais alta da história com a reforma tributária",
+    "v": "Não verificável. A reforma tributária ainda não está em vigor de fato: em 2026 valem só alíquotas-teste (CBS 0,9% e IBS 0,1%, compensadas por redução de PIS/Cofins), a CBS passa a substituir PIS/Cofins em 2027 e a transição do IBS vai até 2033. Logo, não dá para atribuir a ela um recorde de carga. A carga bruta do governo geral foi de 32,40% do PIB em 2025 (32,22% em 2024), e o Tesouro apontou como causas IRRF, IOF e contribuições previdenciárias, não a reforma. Quanto ao 'maior da história': o Tesouro chamou 2025 de maior da série iniciada em 2010, mas divulgações anteriores colocavam 2022 acima de 33%, e não consegui conciliar as duas edições da série.",
+    "s": [
+      "https://www.gov.br/tesouronacional/pt-br/noticias/carga-tributaria-bruta-do-governo-geral-atinge-32-40-do-pib-em-2025",
+      "https://www.contabeis.com.br/noticias/76330/carga-tributaria-do-brasil-atinge-recorde-de-32-4-do-pib-em-2025/",
+      "https://sindifisco.org.br/noticias/carga-tributaria-bate-3371-em-2022-maior-resultado-da-serie-historica-do-tesouro",
+      "https://www.poder360.com.br/economia/carga-tributaria-do-governo-geral-cai-para-3244-do-pib-em-2023/",
+      "https://www.contabeis.com.br/artigos/78477/reforma-tributaria-aliquota-de-27-91-para-ibs-e-cbs/"
+    ]
+  },
+  {
+    "id": 87,
+    "n": 2,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "O IVA começa a ser cobrado no ano que vem e a alíquota estimada é de 28%",
+    "v": "Verdadeiro, com ressalvas de contexto. O IVA dual da reforma tem a CBS substituindo PIS/Cofins a partir de 2027 (em 2026 só há alíquotas-teste), enquanto o IBS entra de forma gradual até 2033. Sobre a alíquota, em jan/2025 o secretário extraordinário da reforma, Bernard Appy, estimou a soma de CBS e IBS 'em torno de 28%', e a premissa usada em 2026 pelo Comitê Gestor do IBS foi de 27,91%. É a alíquota de referência no fim da transição, não o que será cobrado em 2027, e fica acima do gatilho de 26,5% previsto na LC 214/2025 (que não é um teto automático).",
+    "s": [
+      "https://www.camara.leg.br/noticias/1127237-REGULAMENTACAO-DA-REFORMA-TRIBUTARIA-E-SANCIONADA;-CONHECA-A-NOVA-LEI",
+      "https://www.contabeis.com.br/artigos/78477/reforma-tributaria-aliquota-de-27-91-para-ibs-e-cbs/"
+    ]
+  },
+  {
+    "id": 88,
+    "n": 2,
+    "c": 3,
+    "a": "Programas sociais",
+    "t": "Os R$ 600 do Bolsa Família enchiam o carrinho e hoje não enchem mais",
+    "v": "Impreciso. Em termos reais, os R$ 600 compram menos: em dez/2022 equivaliam a cerca de 0,76 da cesta básica de São Paulo (R$ 791,29) e em set/2026 a cerca de 0,65 (R$ 922,51), segundo o DIEESE. Mas o valor mínimo não está mais em R$ 600: o Decreto 13.120/2026 reajustou o benefício em 15,04%, para R$ 691 (média de R$ 777), com efeito a partir de outubro. Com R$ 691, a proporção da cesta de SP fica em torno de 0,75, praticamente igual à de dez/2022. A perda do valor existiu até o reajuste, mas a fala ignora que ele já ocorreu. Cálculo com a cesta mais cara (SP); outras capitais variam.",
+    "s": [
+      "https://mercadoeconsumo.com.br/17/09/2026/economia/governo-reajusta-bolsa-familia-em-15-e-eleva-valor-minimo-para-r-691/",
+      "https://www.dieese.org.br/analisecestabasica/2026/202609cestabasica.pdf",
+      "https://mercadoeconsumo.com.br/10/01/2023/economia/cesta-basica-subiu-nas-17-capitais-em-2022-aponta-dieese/"
+    ]
+  },
+  {
+    "id": 89,
+    "n": 2,
+    "c": 3,
+    "a": "Trajetória, votos e eleição",
+    "t": "Lula diz que as pessoas \"têm que se ajoelhar aos seus pés\"",
+    "v": "Parcial. Não há registro da frase literal \"aos pés\", mas Lula disse algo próximo em comício em Florianópolis, em 19/09/2026: se dependesse do dinheiro do governo, os produtores do agro \"tinham que não só votar, mas se ajoelhar para mim\", porque nunca houve tanto dinheiro para a agricultura. A fala foi dirigida ao agronegócio e em tom de cobrança por apoio, não a \"as pessoas\" em geral, e provocou reação de entidades do setor. Flávio parafraseou e ampliou o alcance da frase.",
+    "s": [
+      "https://www.cnnbrasil.com.br/eleicoes/em-sc-lula-diz-que-agro-deveria-se-ajoelhar-diante-de-recursos/",
+      "https://www.gazetadopovo.com.br/eleicoes/2026/em-sc-lula-diz-que-agronegocio-deveria-se-ajoelhar-diante-dele/"
+    ]
+  },
+  {
+    "id": 90,
+    "n": 1,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "Nunca se exportou tanto nesse país",
+    "v": "Verdadeiro. Em 2025 as exportações brasileiras somaram cerca de US$ 348,7 bilhões, recorde histórico segundo o MDIC. Em 2026 o ritmo é maior: de janeiro a setembro foram US$ 284,65 bilhões, 10,4% acima do mesmo período de 2025, e o próprio MDIC projeta para o ano algo em torno de US$ 382,5 bilhões, outro recorde se confirmado. Os valores estão em dólares correntes, sem ajuste pela inflação.",
+    "s": [
+      "https://jovempan.com.br/noticias/economia/apesar-de-tarifaco-exportacoes-do-brasil-batem-recorde-historico-e-somam-us-349-bilhoes-em-2025.html",
+      "https://movimentoeconomico.com.br/economia/comercio-exterior/2026/01/06/exportacoes-recorde-nao-impedem-queda-do-superavit-brasileiro-em-2025/",
+      "https://euqueroinvestir.com/economia/balanca-comercial-tem-superavit-de-us-774-bi-em-setembro-com-exportacoes-em-alta"
+    ]
+  },
+  {
+    "id": 91,
+    "n": 1,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "Abrimos 700 novos mercados para o agro",
+    "v": "Verdadeiro, com a ressalva do que 'mercado' significa. O Ministério da Agricultura convocou, em 12/10/2026, coletiva com Alckmin e o ministro André de Paula para o dia 13 para anunciar a marca de 700 novos mercados abertos para produtos agropecuários desde o início de 2023 (eram 500 em dez/2025 e 602 em maio/2026). Não são 700 países: cada abertura é a autorização de um produto para um destino, após negociação sanitária concluída, e não garante embarques imediatos. Não encontrei a cobertura do conteúdo da coletiva em si, só o anúncio prévio e matérias que repetem o número.",
+    "s": [
+      "https://www.gov.br/agricultura/pt-br/assuntos/noticias/vice-presidente-geraldo-alckmin-e-ministro-andre-de-paula-anunciam-marca-de-700-novos-mercados-abertos-para-o-agro-brasileiro",
+      "https://feedfood.com.br/brasil-alcanca-700-aberturas-de-mercados-para-o-agro-desde-2023/"
+    ]
+  },
+  {
+    "id": 92,
+    "n": 1,
+    "c": 3,
+    "a": "Economia e contas públicas",
+    "t": "O superávit comercial foi quase 85 bilhões",
+    "v": "Impreciso. O número confere em dólares, mas não em reais, moeda que Lula teria usado segundo a transcrição consultada. O superávit de 2025 foi de US$ 68,3 bilhões e o acumulado de janeiro a setembro de 2026 é de US$ 62,4 bilhões (contra cerca de US$ 46,3 bilhões no mesmo período de 2025). Isso dá, nos 12 meses até setembro de 2026, cerca de US$ 84,4 bilhões (cálculo próprio a partir dos dados do MDIC/Secex). Em reais o valor seria bem maior que 85 bilhões. Não é possível saber a que período ele se referia; no ano de 2025 o saldo foi menor.",
+    "s": [
+      "https://euqueroinvestir.com/economia/balanca-comercial-tem-superavit-de-us-774-bi-em-setembro-com-exportacoes-em-alta",
+      "https://mercadoeconsumo.com.br/07/01/2026/economia/saldo-da-balanca-comercial-tem-recorde-em-dezembro-mas-encolhe-em-2025/",
+      "https://sbtnews.sbt.com.br/noticia/economia/balanca-comercial-tem-superavit-de-us-68-3-bilhoes-em-2025-o-terceiro-maior-da-serie"
+    ]
+  },
+  {
+    "id": 93,
+    "n": 2,
+    "c": 1,
+    "a": "Trajetória, votos e eleição",
+    "t": "Tenho 45 anos, fui deputado quatro vezes e sou senador",
+    "v": "Verdadeiro. Flávio Bolsonaro nasceu em 30/04/1981 e tem 45 anos. A Agência Senado registra quatro mandatos de deputado estadual no Rio de Janeiro (de 2003 a 2018, eleições de 2002, 2006, 2010 e 2014) e sua eleição para o Senado em 2018, com 31,3% dos votos válidos; ele está no cargo desde 2019. Ressalva: foi deputado estadual, não federal.",
+    "s": [
+      "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+      "https://www12.senado.leg.br/noticias/materias/2019/01/18/flavio-bolsonaro-psl"
+    ]
+  },
+  {
+    "id": 94,
+    "n": 2,
+    "c": 2,
+    "a": "Economia e contas públicas",
+    "t": "No Plano Safra, o juro real fica próximo de 20%",
+    "v": "Falso. No Plano Safra 2026/27 do Ministério da Agricultura, as taxas do crédito empresarial vão de 8% a 12,5% ao ano (custeio empresarial e Moderfrota em 12,5%; Pronamp em 9%), nominais. Com o IPCA em 4,58% nos 12 meses até setembro de 2026 (Banco Central), o juro real máximo fica em cerca de 7,6%, longe de 20%. Parte do crédito rural é contratada a juros livres de mercado, que ficam fora dessas taxas do programa.",
+    "s": [
+      "https://www.gov.br/agricultura/pt-br/assuntos/politica-agricola/plano-safra/2026-2027/filipeta-plano-safra-2026-2027-defeso.pdf",
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados/ultimos/3?formato=json"
+    ]
+  },
+  {
+    "id": 95,
+    "n": 2,
+    "c": 3,
+    "a": "Economia e contas públicas",
+    "t": "Lula contingencia os recursos do Seguro Rural e do Plano Safra",
+    "v": "Parcial. O Seguro Rural (subvenção ao prêmio) sofreu bloqueios em dois anos seguidos: em 2025 o Mapa cortou R$ 445,1 milhões de cerca de R$ 1,06 bilhão e, em junho de 2026, bloqueou R$ 461,7 milhões da dotação de cerca de R$ 1 bilhão. Lula ainda vetou o trecho da LDO que protegeria esse gasto de cortes. Já para o Plano Safra, não encontrei contingenciamento: a Fazenda liberou a equalização de juros de 2026/27 (R$ 141,9 bilhões, cerca de 10% abaixo do ano anterior), e o governo diz ter caixa para cobri-la.",
+    "s": [
+      "https://revistacultivar.com.br/noticias/governo-corta-rdollar-445-mi-do-seguro-rural-para-2025",
+      "https://www.cnnbrasil.com.br/agro/governo-bloqueia-metade-do-valor-do-seguro-rural-em-2026/",
+      "https://www.noticiasagricolas.com.br/noticia/413987",
+      "https://www.poder360.com.br/poder-governo/fazenda-autoriza-equalizacao-de-juros-do-plano-safra/"
+    ]
+  },
+  {
+    "id": 96,
+    "n": 1,
+    "c": 3,
+    "a": "Programas sociais",
+    "t": "Eu tinha acabado com a fome em 2012 e voltou em 2023 com 33 milhões passando fome",
+    "v": "Impreciso. A FAO/ONU tirou o Brasil do Mapa da Fome no relatório de setembro de 2014 (subalimentação abaixo de 5%), não em 2012. Os 33,1 milhões de pessoas em situação de fome vêm do II Inquérito da Rede PENSSAN, feito entre novembro de 2021 e abril de 2022, ou seja, no governo anterior e não \"em 2023\". O dado, de uma rede de pesquisa e não do IBGE, mostra a piora após 2014, mas não é a situação do país quando Lula reassumiu.",
+    "s": [
+      "https://www.gov.br/secretariageral/pt-br/consea/noticias/2014/brasil-sai-do-mapa-da-fome-segundo-fao-onu",
+      "https://cfn.org.br/index.php/noticias/pesquisa-revela-que-a-fome-avanca-no-brasil-e-atinge-331-milhoes-de-pessoas/"
+    ]
+  },
+  {
+    "id": 97,
+    "n": 1,
+    "c": 1,
+    "a": "Programas sociais",
+    "t": "O Sul é a região que, proporcionalmente, tem mais aposentados no Brasil",
+    "v": "Verdadeiro. Na PNAD Contínua de rendimento de 2025, o IBGE registrou que 17,0% da população do Sul recebe aposentadoria ou pensão, o maior percentual entre as regiões, contra 14,6% no Sudeste, 13,3% no Nordeste, 10,7% no Centro-Oeste, 8,7% no Norte e 13,8% no país. O Rio Grande do Sul lidera entre os estados, com 20,3%. Ressalva: o indicador soma aposentados e pensionistas e reflete o envelhecimento da população.",
+    "s": [
+      "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+      "https://diariodocomercio.com.br/economia/ibge-aposentadorias-pensoes-2025/"
+    ]
+  },
+  {
+    "id": 98,
+    "n": 1,
+    "c": 1,
+    "a": "Política externa",
+    "t": "Na Argentina a pobreza chegou a 40%",
+    "v": "Verdadeiro, e o pico foi maior. O INDEC mediu pobreza de 52,9% das pessoas no primeiro semestre de 2024, o primeiro inteiro do governo Milei, alta de 11,2 pontos sobre o semestre anterior (cerca de 41,7% no segundo semestre de 2023, ainda sob Alberto Fernández). Ressalva: o índice recuou depois e ficou em 28,2% no segundo semestre de 2025.",
+    "s": [
+      "https://www.indec.gob.ar/uploads/informesdeprensa/eph%5Fpobreza%5F09%5F241C2355AD3A.pdf",
+      "https://www.lacapital.com.ar/segun-el-indec-la-pobreza-cayo-al-282-el-segundo-semestre-del-2025-n10263667.html"
+    ]
+  },
+  {
+    "id": 99,
+    "n": 2,
+    "c": 1,
+    "a": "Política externa",
+    "t": "Milei começou um governo com 211% de inflação",
+    "v": "Verdadeiro. O INDEC registrou inflação de 211,4% nos 12 meses de 2023, com alta de 25,5% só em dezembro, mês em que Milei assumiu (10/12/2023). Foi a maior taxa anual da Argentina desde a hiperinflação do início dos anos 1990.",
+    "s": [
+      "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_01_24DBD5D8158C.pdf"
+    ]
+  },
+  {
+    "id": 100,
+    "n": 2,
+    "c": 1,
+    "a": "Política externa",
+    "t": "Na Argentina a taxa de juros chegou a 100%",
+    "v": "Verdadeiro. Em agosto de 2023 o Banco Central argentino (BCRA) elevou a taxa de política monetária (Leliq de 28 dias) a 118% ao ano e, em meados de outubro de 2023, a 133% ao ano (cerca de 254,8% efetiva anual), segundo o próprio informe monetário do banco. A taxa, portanto, ultrapassou 100% no fim do governo Alberto Fernández, em meio à inflação alta.",
+    "s": [
+      "https://www.bcra.gob.ar/en/publicaciones/monthly-monetary-report-october-2023/"
+    ]
+  },
+  {
+    "id": 101,
+    "n": 1,
+    "c": 2,
+    "a": "Economia e contas públicas",
+    "t": "A economista de Flávio disse que vai cortar o aumento do salário mínimo",
+    "v": "Falso. Em entrevista ao Estadão publicada em 09/09/2026, Daniella Marques, coordenadora econômica da campanha de Flávio, disse que talvez não seja necessário mudar a regra de reajuste do mínimo se o ajuste fiscal der resultado, e que antes seria preciso enfrentar privilégios e penduricalhos. Em agosto, ao UOL, a equipe havia indicado que manteria ganho real. Ela não prometeu cortar o aumento real, embora tenha evitado se comprometer com sua manutenção e, em podcast divulgado em 23/10, tenha dito que um governo não tem moral para discutir ajuste de previdência e de salário mínimo sem antes cortar na carne.",
+    "s": [
+      "https://www.poder360.com.br/poder-eleicoes-2026/ajuste-pode-evitar-debate-sobre-salario-minimo-diz-daniella-marques/",
+      "https://www.gazetadopovo.com.br/eleicoes/2026/brasil-nao-tem-moral-para-ajustar-salario-antes-de-debate-sobre-privilegios-diz-economista-de-flavio-daniella-marques/",
+      "https://www.gazetadopovo.com.br/eleicoes/2026/daniella-marques-plano-de-flavio-preve-ganho-real-no-salario-minimo-e-controle-de-gastos/",
+      "https://bpmoney.com.br/politica/coordenadora-flavio-cortes-aposentadoria-salario-minimo/"
+    ]
+  },
+  {
+    "id": 102,
+    "n": 2,
+    "c": 3,
+    "a": "Segurança pública",
+    "t": "A rota de tráfico de armas e drogas passa pelo Porto de Paranaguá",
+    "v": "Parcial. A parte das drogas procede: a Polícia Federal apreendeu cerca de 226 kg de cocaína no Porto de Paranaguá em 24/09/2026, e em outubro de 2023 a PM do Paraná apreendeu 176 kg de cocaína em um caminhão em frente ao terminal de contêineres. Quanto a armas, houve duas pistolas 9 mm nessa apreensão de 2023 e a operação Trigger (2023), contra tráfico internacional de armas, atuou no porto, mas não encontrei apreensões de armas em escala que comprovem uma rota de armas passando por Paranaguá. A fala generaliza o que está documentado só para drogas.",
+    "s": [
+      "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-apreende-cerca-de-226-kg-de-cocaina-no-porto-de-paranagua-pr",
+      "https://www.portosdoparana.pr.gov.br/Noticia/Uniao-de-forcas-de-seguranca-apreende-305-quilos-de-cocaina-no-Terminal-de-Conteineres",
+      "https://www.pmpr.pr.gov.br/Noticia/Policiais-Militares-apreendem-caminhao-carregado-com-176-kg-de-cocaina-em-Paranagua"
+    ]
+  },
+  {
+    "id": 103,
+    "n": 2,
+    "c": 1,
+    "a": "Programas sociais",
+    "t": "Nós fizemos o marco legal do saneamento, com meta de mais de 90% de acesso a água e esgoto até 2033",
+    "v": "Verdadeiro. O novo marco do saneamento (Lei 14.026/2020) nasceu de projeto de iniciativa do governo Bolsonaro (PL 4.162/2019, baseado na MP 868/2018 que perdeu a validade), foi aprovado pelo Congresso e sancionado por Jair Bolsonaro em 15/07/2020. A lei exige contratos com metas de 99% da população com água potável e 90% com coleta e tratamento de esgoto até 31/12/2033.",
+    "s": [
+      "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14026.htm",
+      "https://www12.senado.leg.br/noticias/materias/2020/06/24/senado-aprova-novo-marco-legal-do-saneamento-basico"
+    ]
+  },
+  {
+    "id": 104,
+    "n": 2,
+    "c": 3,
+    "a": "Programas sociais",
+    "t": "Cerca de 90 milhões de brasileiros não têm esgoto tratado e 40 milhões não têm água tratada",
+    "v": "Parcial. Segundo o Trata Brasil, com dados do SINISA de 2024, cerca de 90 milhões de pessoas (43,3%) não têm coleta de esgoto, e só 51,8% do esgoto gerado é tratado, então o total sem esgoto tratado é ainda maior. Já sem acesso a água potável são cerca de 33 milhões (15,9%), abaixo dos 40 milhões citados. Em 2020, o relator do marco no Senado falava em cerca de 35 milhões sem água tratada e metade da população sem coleta de esgoto.",
+    "s": [
+      "https://tratabrasil.org.br/indicador-saneamento-distantes-universalizacao/",
+      "https://www12.senado.leg.br/noticias/materias/2020/06/24/senado-aprova-novo-marco-legal-do-saneamento-basico"
+    ]
+  },
+  {
+    "id": 105,
+    "n": 2,
+    "c": 3,
+    "a": "Trajetória, votos e eleição",
+    "t": "Quem votou contra o marco do saneamento foi a bancada do PT",
+    "v": "Parcial. O PT se opôs: foi o único partido a orientar voto contrário no Senado, onde os seis senadores petistas votaram não na aprovação por 65 a 13 em 24/06/2020. Mas dos 13 votos contrários, sete vieram de outras siglas (PSD, Rede, Cidadania, PDT, PSB, PROS e Republicanos). Na Câmara, em 11/12/2019, PT, PDT, PSOL e PCdoB orientaram obstrução.",
+    "s": [
+      "https://www.congressoemfoco.com.br/noticia/17363/senado-aprova-novo-marco-do-saneamento-basico-e-texto-vai-a-sancao",
+      "https://pt.org.br/contra-voto-do-pt-senado-abre-caminho-para-privatizar-a-agua/",
+      "https://www.camara.leg.br/internet/votacao/mostraVotacao.asp?codCasa=1&ideVotacao=9317&indTipoSessao=E&indTipoSessaoLegislativa=O&numLegislatura=56&numSessao=414&numSessaoLegislativa=1&tipo=uf"
+    ]
+  },
+  {
+    "id": 106,
+    "n": 2,
+    "c": 2,
+    "a": "Programas sociais",
+    "t": "Por causa do governo Lula, a meta do saneamento já foi para depois de 2050",
+    "v": "Falso. A meta legal segue sendo 31/12/2033 (Lei 14.026/2020); a lei só admite, em casos específicos, dilação de prazo até 01/01/2040. Os decretos de 2023 (11.598 e 11.599) trataram de condições para recursos federais e de regionalização, e a prorrogação de dezembro de 2025 (Decreto 12.805) estendeu até 2027 só exigências de regionalização, sem alterar a meta. O que existe é uma projeção do Trata Brasil/GO Associados de que, no ritmo atual, a universalização ocorreria em 2070, o que é um alerta de atraso, não uma nova data legal.",
+    "s": [
+      "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14026.htm",
+      "https://brasil61.com/n/saneamento-basico-prazo-da-regionalizacao-e-prorrogado-ate-2027-bras2515469",
+      "https://agenciainfra.com/blog/?p=17715"
+    ]
+  },
+  {
+    "id": 107,
+    "n": 1,
+    "c": 1,
+    "a": "Trajetória, votos e eleição",
+    "t": "O governo Bolsonaro anulou o Fundo Amazônia e o governo Lula o fez voltar a funcionar",
+    "v": "Verdadeiro, em essência. Decretos de 2019 e 2020 extinguiram os comitês do Fundo Amazônia, que ficou sem aprovar novos projetos (o fundo em si não foi extinto). O STF, em 03/11/2022, mandou o governo reativá-lo em 60 dias. Lula recriou os comitês por decreto em 01/01/2023, e o fundo chegou a R$ 1,3 bilhão em aprovações de projetos e chamadas públicas em 2023.",
+    "s": [
+      "https://noticias.stf.jus.br/postsnoticias/stf-determina-reativacao-do-fundo-amazonia-no-prazo-de-60-dias/",
+      "https://www2.camara.leg.br/legin/fed/decret/2023/decreto-11368-1-janeiro-2023-793602-publicacaooriginal-166718-pe.html",
+      "https://eixos.com.br/fundo-amazonia-tem-r-13-bilhao-aprovado-para-projetos-e-chamadas-publicas/"
+    ]
+  },
+  {
+    "id": 108,
+    "n": 1,
+    "c": 2,
+    "a": "Economia e contas públicas",
+    "t": "A transposição tem quase 1.700 km de canal e 15.000 km de adutoras",
+    "v": "Falso. Os dois eixos da transposição do São Francisco somam 477 km (260 km no Eixo Norte e 217 km no Leste), segundo o Ministério da Integração e do Desenvolvimento Regional. Com os ramais do Agreste (71 km), Apodi (115 km) e Salgado (36 km), o projeto chega a cerca de 699 km, bem longe de 1.700 km. Não encontrei nenhum dado oficial que sustente 15 mil km de adutoras ligadas à transposição.",
+    "s": [
+      "https://www.gov.br/mdr/pt-br/noticias/eixos-norte-e-leste-da-transposicao-do-sao-francisco-levam-agua-a-mais-de-12-milhoes-de-nordestinos",
+      "https://crusoe.com.br/?p=238663"
+    ]
+  },
+  {
+    "id": 109,
+    "n": 2,
+    "c": 1,
+    "a": "Saúde",
+    "t": "No vídeo em que imita alguém sem ar, Bolsonaro criticava a orientação de esperar a falta de ar para ir ao hospital",
+    "v": "Verdadeiro quanto ao alvo da crítica. Nas lives de 18/03/2021 e 06/05/2021, em que Bolsonaro imitou uma pessoa sem ar, o alvo era o ex-ministro Mandetta e a orientação de 2020 de só procurar o hospital em caso de falta de ar, conforme o Poder360. Bolsonaro disse depois que denunciava o 'Protocolo Mandetta'. Isso não muda o fato de que a imitação foi amplamente criticada, mas a explicação de Flávio condiz com o contexto dos vídeos.",
+    "s": [
+      "https://www.poder360.com.br/governo/bolsonaro-imita-pessoa-com-falta-de-ar-e-critica-mandetta/",
+      "https://www.poder360.com.br/governo/assista-aos-2-videos-com-bolsonaro-imitando-ter-falta-de-ar/"
+    ]
+  },
+  {
+    "id": 110,
+    "n": 2,
+    "c": 3,
+    "a": "Segurança pública",
+    "t": "Os estados do Nordeste, governados pelo PT e aliados, são os estados mais violentos do Brasil",
+    "v": "Parcialmente verdadeiro. Em 2025, quatro dos cinco maiores índices de mortes violentas do país foram de estados nordestinos: Bahia (36,8 por 100 mil), Ceará (34,7), Alagoas (33,1) e Pernambuco (33,0), segundo o Anuário do Fórum Brasileiro de Segurança Pública, e o Nordeste teve a maior taxa entre as regiões (31,6; o Norte veio em seguida, com 25,3). Mas o primeiro lugar é o Amapá (42,5), que fica no Norte. E a frase generaliza: nem todos os estados da região lideram o ranking, e nem todos os do top 5 são governados pelo PT (Pernambuco, por exemplo, é governado por Raquel Lyra). Em 2024 o quadro foi parecido (Amapá 45,1, Bahia 40,6, Ceará 37,5, Pernambuco 36,2, Alagoas 35,4).",
+    "s": [
+      "https://www.diariodepernambuco.com.br/amp/vida-urbana/2026/07/11719457-sds-diz-que-dados-do-anuario-divulgados-nesta-quinta-feira-23-mostram-avancos-na-politica-de-seguranca-publica.html",
+      "https://www.cnnbrasil.com.br/nacional/brasil/mortes-violentas-caem-82-no-brasil-em-2025-sete-estados-registram-alta/",
+      "https://www.diariodepernambuco.com.br/vida-urbana/2026/01/11706604-pernambuco-e-o-4-estado-mais-violento-do-brasil-aponta-anuario-de-seguranca.html"
+    ]
+  },
+  {
+    "id": 111,
+    "n": 1,
+    "c": 3,
+    "a": "Educação",
+    "t": "Nós fizemos 40 novos institutos federais no Nordeste",
+    "v": "Impreciso. O governo anunciou em março de 2024 100 novos campi de institutos federais no país, 38 deles no Nordeste, número próximo dos 40 citados. Mas são campi de IFs já existentes, não institutos novos, e a maior parte ainda está em implantação: em 03/07/2026 foram inaugurados 10 campi no país, só um deles no Nordeste (Altos, no Piauí). A página do MEC fala hoje em 111 campi em implantação, sem detalhar quantos são no Nordeste nem quantos já funcionam.",
+    "s": [
+      "https://www.gov.br/mec/pt-br/100-novos-ifs",
+      "https://sbtnews.sbt.com.br/noticia/politica/governo-lula-anuncia-criacao-de-100-novos-institutos-federais",
+      "https://tribunadosertao.com.br/geral/2026/07/03/933864-educacao-nao-tem-limite-para-se-fazer-investimentos-diz-lula-ao-inaugurar-dez-novos-campi-de-institutos-federais-pelo-brasil"
+    ]
+  },
+  {
+    "id": 112,
+    "n": 1,
+    "c": 3,
+    "a": "Trajetória, votos e eleição",
+    "t": "Perdi um dedo com 17 anos, trabalhando à noite",
+    "v": "Impreciso. Lula realmente perdeu o dedo mínimo da mão esquerda num acidente de trabalho em uma metalúrgica, em 1964, e as fontes que consultei não dão 17 anos: o Instituto Lula e a checagem do Aos Fatos falam em 18 anos, e a Agência Senado (2002) fala em 19. O Aos Fatos também descreve que ele trabalhava no turno da madrugada, o que combina com a ideia de trabalho noturno.",
+    "s": [
+      "https://www12.senado.leg.br/noticias/materias/2002/12/30/do-agreste-ao-planalto-central-a-trajetoria-do-novo-presidente-da-republica",
+      "https://www.aosfatos.org/noticias/fora-de-contexto-lula-dedo/",
+      "https://congressoemfoco.com.br/noticias/lula-rebate-boato-de-que-recebe-aposentadoria-por-invalidez"
+    ]
+  },
+  {
+    "id": 113,
+    "n": 2,
+    "c": 1,
+    "a": "Programas sociais",
+    "t": "Lula deixou o Bolsa Família sem reajuste e, perto da eleição, deu R$ 3 por dia",
+    "v": "Verdadeiro, com contexto. O piso de R$ 600 ficou parado desde março de 2023 e só foi corrigido pelo Decreto 13.120, de 17/09/2026, para R$ 691 a partir de outubro, ou seja, cerca de 17 dias antes do primeiro turno. Os R$ 91 a mais por mês dão aproximadamente R$ 3 por dia. O governo e o ministro Gilmar Mendes (STF) afirmam que é só reposição da inflação (INPC de 15,04%), sem criar benefício nem ampliar o público, e não ganho real.",
+    "s": [
+      "https://movimentoeconomico.com.br/administracao-publica/2026/09/17/bolsa-familia-sobe-15-a-17-dias-do-primeiro-turno-e-opositores-de-lula-reagem/",
+      "https://diariodopara.com.br/seu-bolso/gilmar-mendes-valida-reajuste-do-bolsa-familia-e-afasta-violacao-a-lei-eleitoral/"
+    ]
+  },
+  {
+    "id": 114,
+    "n": 2,
+    "c": 1,
+    "a": "Segurança pública",
+    "t": "Recorde de mulheres assassinadas no governo Lula, e a quantidade de mulheres espancadas só aumenta",
+    "v": "Verdadeiro em essência, com ressalvas. O Anuário Brasileiro de Segurança Pública 2026 registrou 1.571 feminicídios em 2025, alta de 4% e o maior número da série. Já os casos de lesão corporal dolosa em violência doméstica somaram 286.270, alta de 2,6%. Duas ressalvas: o recorde é de feminicídios (as mortes violentas em geral caíram 8,2% em 2025), e a alta da lesão corporal em 2025 é confirmada, mas não conferi uma série plurianual que sustente o 'só aumenta'. Parte do aumento de feminicídios é atribuída também a melhor registro após a lei de 2015.",
+    "s": [
+      "https://fontesegura.forumseguranca.org.br/20a-edicao-do-anuario-brasileiro-de-seguranca-publica-aponta-que-os-lares-se-tornaram-ambientes-mais-violentos-para-mulheres-criancas-e-adolescentes-homicidios-caem-82-na-comparacao-com-2024/",
+      "https://www.correiodamanha.com.br/baixada/2026/08/310322-prevencao-a-violencia-domestica-na-baixada-fluminense.html",
+      "https://www.jb.com.br/brasil/2026/07/1060384-brasil-tem-menor-taxa-de-mortes-violentas-intencionais-desde-2012.html"
+    ]
+  },
+  {
+    "id": 115,
+    "n": 2,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "São mais de 80 milhões de pessoas com contas atrasadas",
+    "v": "Verdadeiro. Segundo o Mapa da Inadimplência da Serasa, havia 81,7 milhões de brasileiros com nome negativado em fevereiro de 2026, o maior número da série iniciada em 2016, e 83,98 milhões em agosto de 2026. Isso equivale a quase metade dos adultos do país. O número mede pessoas com dívidas em atraso negativadas, não apenas quem está sem pagar contas do dia a dia.",
+    "s": [
+      "https://www.serasa.com.br/imprensa/10-anos-do-mapa-de-inadimplencia/",
+      "https://mais.opovo.com.br/jornal/farol/2026/09/19/com-8398-milhoes-negativados-inadimplencia-no-br-alcanca-menor-patamar-de-crescimento-do-ano-aponta-serasa.html"
+    ]
+  },
+  {
+    "id": 116,
+    "n": 1,
+    "c": 3,
+    "a": "Educação",
+    "t": "O Brasil só teve a primeira universidade 420 anos depois da descoberta",
+    "v": "Parcial. O Decreto 14.343, de 7/9/1920, criou a Universidade do Rio de Janeiro ao reunir a Escola Politécnica e as Faculdades de Medicina e de Direito, 420 anos depois de 1500, e ela costuma ser citada como a primeira universidade federal/oficial do país. Mas não foi a primeira a existir: a Universidade do Paraná foi fundada em 1912 e a de Manaus recebeu o título de universidade em 1913 (com origem em 1909), ambas privadas e depois desmembradas ou sem reconhecimento oficial. Não há designação oficial única de 'primeira universidade do Brasil'; o número de Lula só se sustenta se a conta for a da primeira criada pelo governo federal.",
+    "s": [
+      "https://legis.senado.leg.br/norma/426983/publicacao/15622657",
+      "https://pt.wikipedia.org/wiki/Universidade_Federal_do_Rio_de_Janeiro",
+      "https://pt.wikipedia.org/wiki/Universidade_Federal_do_Paran%C3%A1"
+    ]
+  },
+  {
+    "id": 117,
+    "n": 2,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "O governo Lula está deixando uma dívida de R$ 11 trilhões",
+    "v": "Verdadeiro. Em agosto de 2026, a dívida bruta do governo geral somou R$ 11,05 trilhões, ou 82,9% do PIB, segundo o Banco Central. Em dezembro de 2022 ela era de R$ 7,22 trilhões (71,7% do PIB), o que dá alta de cerca de R$ 3,8 trilhões no período. Em proporção do PIB, o nível atual ainda fica abaixo do pico de 2020 (87,7%); a explicação mais citada para a alta recente são os juros.",
+    "s": [
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13761/dados?formato=json&dataInicial=01/01/2022&dataFinal=23/10/2026",
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json&dataInicial=01/01/2022&dataFinal=23/10/2026",
+      "https://www.tribunapr.com.br/noticias/economia/divida-publica-brasileira-atinge-r-111-trilhoes-em-agosto-de-2026/"
+    ]
+  },
+  {
+    "id": 118,
+    "n": 2,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "O Banco Central independente é um legado de Bolsonaro",
+    "v": "Verdadeiro. A Lei Complementar 179, que deu autonomia ao Banco Central, foi sancionada por Jair Bolsonaro em 24/2/2021. Ela fixa mandatos de quatro anos para o presidente e os diretores do BC, que não coincidem com o mandato presidencial. O projeto (PLP 19/2019) nasceu no Senado, de autoria do senador Plínio Valério, e não do Executivo; PT e PSOL questionaram a lei no STF, que a validou por 8 a 2 em agosto de 2021.",
+    "s": [
+      "https://www12.senado.leg.br/noticias/materias/2021/08/27/stf-valida-lei-de-autonomia-do-banco-central-aprovada-pelo-congresso",
+      "https://legis.senado.leg.br/norma/33254508",
+      "https://www.dizerodireito.com.br/2021/02/lei-complementar-1792021-confere.html?m=1"
+    ]
+  },
+  {
+    "id": 119,
+    "n": 2,
+    "c": 3,
+    "a": "Economia e contas públicas",
+    "t": "Sete pontos a menos de juros sobre a dívida de R$ 11 trilhões custam quase R$ 1 trilhão por ano",
+    "v": "Impreciso. A conta direta é 7% de R$ 11,05 trilhões, cerca de R$ 774 bilhões, abaixo do 'quase um trilhão' citado. E o efeito real em 12 meses tende a ser menor: só cerca de 53% da dívida pública federal está atrelada à Selic (ago/2026); o restante, prefixado, indexado à inflação ou ao câmbio, só reprecifica quando é refinanciado. Os pontos de partida são reais: a meta da Selic está em 13,75% e, em outubro de 2022, o Focus projetava 7,5% a 7,75% para o fim de 2026. Como referência de ordem de grandeza, o gasto total com juros nominais em 12 meses é de R$ 1,18 trilhão (8,86% do PIB).",
+    "s": [
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13761/dados?formato=json&dataInicial=01/01/2022&dataFinal=23/10/2026",
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/09/2026&dataFinal=23/10/2026",
+      "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?$filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2026'%20and%20Data%20ge%20'2022-10-01'%20and%20Data%20le%20'2022-10-31'%20and%20baseCalculo%20eq%200&$format=json",
+      "https://acritica.net/economia/divida-publica-federal-chega-a-r-929-trilhoes-em-agosto-com-impacto-dos-juros/",
+      "https://www.tribunapr.com.br/noticias/economia/divida-publica-brasileira-atinge-r-111-trilhoes-em-agosto-de-2026/"
+    ]
+  },
+  {
+    "id": 120,
+    "n": 2,
+    "c": 3,
+    "a": "Economia e contas públicas",
+    "t": "Quando passou ao segundo turno na frente, a taxa de juro futuro já caiu 2%",
+    "v": "Impreciso. A queda existe e foi grande: com o resultado do 1º turno (4/10), o DI para janeiro de 2029 passou de 13,75% para 12,65% em 5/10, cerca de 1,1 ponto percentual num dia. Mas não chegou a 2 pontos: desde o fechamento de 2/10 (13,69%) até 23/10 (12,60%) a queda no vencimento de 2029 é de aproximadamente 1,1 ponto, e no de 2031 (13,92% para 12,58%) de cerca de 1,3. A taxa ainda oscilou para cima e para baixo ao longo do mês.",
+    "s": [
+      "https://www.moneytimes.com.br/juros-futuros-5-10-26-apsa/",
+      "https://www.cnnbrasil.com.br/economia/money/mercado/juros-futuros-caem-com-mercado-otimista-as-vesperas-das-eleicoes/",
+      "https://www.dgabc.com.br/Noticia/4364506/taxas-de-juros-encerram-sessao-em-baixa-com-trade-eleitoral-e-ipca-15-abaixo-do-previsto",
+      "https://www.poder360.com.br/poder-economia/efeito-flavio-derruba-juro-e-pais-economiza-r-66-bilhoes-com-divida/"
+    ]
+  },
+  {
+    "id": 121,
+    "n": 1,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "Manteve o mesmo presidente do Banco Central por oito anos, e FHC trocou quatro vezes",
+    "v": "Verdadeiro, com ressalva de contagem. Henrique Meirelles presidiu o Banco Central de 1/1/2003 a 1/1/2011, os oito anos dos dois mandatos de Lula. No governo FHC passaram pelo cargo Pérsio Arida (jan/1995), Gustavo Loyola (jun/1995), Gustavo Franco (ago/1997) e Armínio Fraga (mar/1999), além do interino Francisco Lopes, em 1999, e do interino Gustavo Franco na virada de 1994. Contando as sucessões entre esses nomes, dá algo entre quatro e cinco trocas, conforme se inclua ou não o interino de 1999.",
+    "s": [
+      "https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Banco_Central_do_Brasil",
+      "https://pt.wikipedia.org/wiki/Henrique_Meirelles"
+    ]
+  },
+  {
+    "id": 122,
+    "n": 1,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "O salário mínimo cresceu no governo dele",
+    "v": "Verdadeiro. O mínimo vigente em janeiro de 2023 era de R$ 1.302 (valor fixado ainda por MP de Bolsonaro em dezembro de 2022; o governo Lula o elevou a R$ 1.320 em maio daquele ano). Em 2026 ele está em R$ 1.621, após reajuste de 6,8% sobre os R$ 1.518 de 2025. Corrigindo pelo INPC, o ganho é de mais de 10% acima da inflação desde 2023 (cálculo próprio com a série do BC). A Lei 14.663/2023 reinstituiu a regra de reajuste pela inflação (INPC) mais o crescimento do PIB de dois anos antes.",
+    "s": [
+      "https://www.congressoemfoco.com.br/noticia/115146/governo-oficializa-reajuste-do-salario-minimo-para-r-1-621-em-2026",
+      "https://www.poder360.com.br/governo/governo-ratifica-salario-minimo-em-r-1-302/",
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.188/dados?formato=json&dataInicial=01/01/2023&dataFinal=31/12/2026"
+    ]
+  },
+  {
+    "id": 123,
+    "n": 1,
+    "c": 2,
+    "a": "Economia e contas públicas",
+    "t": "A economia não crescia acima de 3% desde 2010, quando deixei a Presidência",
+    "v": "Falso. Segundo o IBGE, o PIB cresceu 4,0% em 2011 (governo Dilma) e 4,8% em 2021 (governo Bolsonaro, na retomada pós-pandemia), ambos acima de 3%. Nos anos de Lula 3, o PIB subiu 3,2% em 2023 e 3,4% em 2024, mas 2025 ficou em 2,3%. Em 2013 e 2022 o crescimento foi de 3,0%, no limite.",
+    "s": [
+      "https://apisidra.ibge.gov.br/values/t/6784/n1/all/v/9810/p/2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025",
+      "https://istoedinheiro.com.br/pib-do-brasil-2024/",
+      "https://www.infomoney.com.br/economia/pib-do-brasil-4o-trimestre-ano-2025-ibge/"
+    ]
+  },
+  {
+    "id": 124,
+    "n": 1,
+    "c": 3,
+    "a": "Saúde",
+    "t": "O escolhido de Flávio para a Saúde disse que \"não vai colocar nenhum dinheiro no SUS\"",
+    "v": "Impreciso. Em 2019, num debate da Fundação FHC, quando presidia a UnitedHealth Group Brasil, Claudio Lottenberg (indicado por Flávio ao Ministério da Saúde) disse \"eu não colocaria nada mais\", mas com a condição de \"a não ser que a gente esgotasse ou pelo menos evoluísse na forma de alocar os recursos\" já existentes. Ele defendia melhorar a gestão antes de pôr mais verba e chamou de equivocado o \"mantra\" de que falta dinheiro. Não é a frase literal de Lula, que omite a condição, e Lottenberg falava como executivo da área privada, não como ministro. O trecho voltou a circular em 19/10/2026.",
+    "s": [
+      "https://atarde.com.br/eleicoes/futuro-ministro-de-flavio-bolsonaro-defende-travar-recursos-ao-sus-1406376",
+      "https://bpmoney.com.br/politica/indicado-flavio-bolsonaro-saude-nao-colocaria-dinheiro-sus/"
+    ]
+  },
+  {
+    "id": 125,
+    "n": 2,
+    "c": 1,
+    "a": "Trajetória, votos e eleição",
+    "t": "Lula votou contra a Constituição de 1988, que criou o SUS",
+    "v": "Verdadeiro, com ressalva. Em 22/09/1988, na votação da redação final da Constituinte, a bancada do PT, da qual Lula era líder e deputado constituinte, votou contra o texto. Lula argumentou que ele mantinha intacta a essência do poder e da propriedade privada. Segundo a Âmbito Jurídico, o placar foi de 474 votos a favor e 15 contra (todos do PT), com 6 abstenções. O partido, porém, assinou a Constituição para legitimar o processo, e foi essa Carta que criou o SUS.",
+    "s": [
+      "https://www12.senado.leg.br/noticias/materias/2008/09/22/ha-20-anos-era-aprovada-a-redacao-final-da-constituicao-de-1988",
+      "https://fpabramo.org.br/evento/o-pt-no-processo-constituinte/",
+      "https://ambitojuridico.com.br/uma-profecia-a-constituir/"
+    ]
+  },
+  {
+    "id": 126,
+    "n": 1,
+    "c": 1,
+    "a": "Saúde",
+    "t": "No governo Bolsonaro, quem tomasse vacina \"ia virar gay, ia virar jacaré\"",
+    "v": "Verdadeiro quanto ao essencial. Em discurso em Porto Seguro (BA), em dezembro de 2020, Bolsonaro disse que o contrato da Pfizer isentava a empresa de efeitos colaterais: \"se você virar um jacaré o problema é de você\". Na sequência, afirmou que se \"um homem começar a falar fino\" ou nascer \"um homem como uma mulher\", a empresa não teria nada a ver com isso. A expressão \"virar gay\" é a leitura de Lula dessa fala; Bolsonaro não usou essas palavras.",
+    "s": [
+      "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/ex-presidentes/jair-messias-bolsonaro-1/discursos-e-pronunciamentos/2020/12/201218_discurso-do-presidente-da-republica-jair-bolsonaro-na-cerimonia-de-assinatura-de-atos-de-apoio-ao-setor-produtivo-aeroporto-internacional-de-porto-seguro.pdf"
+    ]
+  },
+  {
+    "id": 127,
+    "n": 1,
+    "c": 3,
+    "a": "Saúde",
+    "t": "Com outra conduta, poderia ter salvado pelo menos metade das pessoas que morreram de Covid",
+    "v": "Não verificável. É uma estimativa contrafactual, sem como confirmar o número exato. Na CPI da Covid, em junho de 2021, o epidemiólogo Pedro Hallal estimou que cerca de 4 em cada 5 mortes (ao menos 400 mil, na época) eram evitáveis, comparando o Brasil à média mundial, e o Grupo Alerta calculou ao menos 120 mil mortes evitáveis só com medidas não farmacológicas. Governistas contestaram o método. As estimativas dependem de modelo e variam muito, então a fração de \"metade\" é plausível, mas não comprovada.",
+    "s": [
+      "https://www12.senado.leg.br/noticias/materias/2021/06/24/pesquisas-apontam-que-400-mil-mortes-poderiam-ser-evitadas-governistas-questionam"
+    ]
+  },
+  {
+    "id": 128,
+    "n": 2,
+    "c": 1,
+    "a": "Saúde",
+    "t": "A espera por cirurgia de câncer de tireoide ultrapassou os 700 dias",
+    "v": "Verdadeiro, com ressalva. A auditoria do TCU sobre o programa Agora Tem Especialistas (Acórdão 1.622/2026, de 24/06/2026) registrou 719 dias de espera pela tireoidectomia total em oncologia em 2025, segundo reportagens sobre o relatório. O número oscila muito: 1.121 dias em 2022, 421 em 2023 e 75 em 2024, e o TCU descreve a série como \"sem tendência definida de melhora\". A base (RNDS) cobre só parte das cirurgias do SUS, e a lei fixa 60 dias para começar o tratamento do câncer.",
+    "s": [
+      "https://portal.tcu.gov.br/imprensa/noticias/tcu-avalia-programa-agora-tem-especialistas-do-ministerio-da-saude",
+      "https://www.otempo.com.br/brasil/2026/7/23/espera-por-cirurgia-de-cancer-aumenta-no-sus-em-2025-revela-tcu",
+      "https://jornaldebrasilia.com.br/noticias/saude/aumenta-espera-por-cirurgia-de-cancer-no-sus-aponta-tcu/"
+    ]
+  },
+  {
+    "id": 129,
+    "n": 2,
+    "c": 3,
+    "a": "Saúde",
+    "t": "Fez uma emenda para aparelhos que conservam rins para transplante",
+    "v": "Não verificável. Não encontrei registro público nem reportagem de emenda do senador Flávio Bolsonaro para máquinas de perfusão (aparelhos que preservam rins até o transplante). Isso não prova que a emenda não exista: emendas individuais podem constar no Portal da Transparência ou no SIOP sob outra descrição, ou ter sido destinada a um hospital sem menção à máquina. Sem o número da emenda ou o hospital beneficiado, não há como confirmar nem desmentir."
+  },
+  {
+    "id": 130,
+    "n": 2,
+    "c": 1,
+    "a": "Saúde",
+    "t": "A tabela SUS paga R$ 10 por consulta e R$ 443 por parto, e Lula não a atualizou",
+    "v": "Verdadeiro, com ressalva. A tabela federal paga R$ 10 pela consulta médica (a ANS usa R$ 73,91) e R$ 443,40 pelo parto normal, valor que já aparecia em 2015 e em 2022, ou seja, não mudou nesse período. A tabela é considerada sem reajuste estrutural há cerca de 20 anos. Em janeiro de 2024 Lula sancionou lei que prevê reajuste anual, sujeito à disponibilidade de orçamento. Houve ajustes pontuais em alguns procedimentos, mas não nesses dois valores.",
+    "s": [
+      "https://www.campograndenews.com.br/politica/defasada-desde-2013-lula-sanciona-lei-que-garante-reajuste-anual-na-tabela-sus",
+      "http://www.saude.sp.gov.br/coordenadoria-de-controle-de-doencas/noticias/03072025-saiba-como-a-tabela-sus-paulista-acelerou-cirurgias-e-exames",
+      "https://legismap.com.br/conteudos/artigos-e-noticias/sistema-de-reembolso-sera-mais-agil-diz-ministro"
+    ]
+  },
+  {
+    "id": 131,
+    "n": 1,
+    "c": 3,
+    "a": "Economia e contas públicas",
+    "t": "Já mandou a MP e vai fazer \"um leilão este mês\" que pode chegar a \"mais de 150 bilhões\" para comprar dívidas",
+    "v": "Impreciso. A MP 1.393 foi publicada em 25/09/2026 (Desenrola Brasil 3.0), mas o leilão não está marcado para outubro: em 22/10 a Fazenda só abriu chamamento para que credores enviem informações até 30/10, sem garantia de compra pela União, para estruturar um leilão futuro. Os R$ 150 bilhões são a estimativa de dívidas renegociadas (até esse valor), com custo previsto de R$ 15 bilhões para a União, não \"mais de 150 bilhões\".",
+    "s": [
+      "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/fazenda-abre-chamamento-publico-para-instituicoes-interessadas-em-participar-como-credoras-da-terceira-fase-da-renegociacao-de-dividas",
+      "https://legis.senado.leg.br/norma/44059093"
+    ]
+  },
+  {
+    "id": 132,
+    "n": 1,
+    "c": 2,
+    "a": "Educação",
+    "t": "O governo Bolsonaro inventou a escola cívico-militar e não fez",
+    "v": "Falso. O Programa Nacional das Escolas Cívico-Militares foi instituído pelo Decreto 10.004, de 5/9/2019, e saiu do papel: em dezembro de 2022 o MEC apresentou 202 escolas em funcionamento, presentes em todos os estados, com cerca de 120 mil alunos. A meta inicial era de 200 escolas até 2023. Foi o governo Lula que encerrou o programa, por decreto de julho de 2023, quando havia 216 escolas aderentes.",
+    "s": [
+      "https://www.gov.br/mec/pt-br/assuntos/noticias/2022/ministerio-da-educacao-apresenta-os-resultados-do-programa-nacional-das-escolas-civico-militares",
+      "https://www.itatiaia.com.br/politica/governo-lula-publica-decreto-que-encerra-programa-para-escolas-civico-militares/"
+    ]
+  },
+  {
+    "id": 133,
+    "n": 1,
+    "c": 3,
+    "a": "Educação",
+    "t": "Com o Pé-de-Meia, 66% das crianças não desistiram da escola",
+    "v": "Impreciso. Não encontrei nenhum dado do MEC que chegue a 66%. O Panorama Pé-de-Meia (mar/2026) mostra o abandono no ensino médio público caindo de 6,4% em 2022 para 3,6% em 2024, queda de cerca de 44%. Já o Censo Escolar 2025, divulgado em junho de 2026, aponta redução de 61% entre 2022 e 2025. Em qualquer leitura, a grande maioria dos alunos já permanecia na escola, e a queda do abandono não isola o efeito do Pé-de-Meia.",
+    "s": [
+      "https://www.gov.br/mec/pt-br/centrais-de-conteudo/infograficos/pe-de-meia/documentos/2026/marco/panorama-pdm-br.pdf",
+      "https://www.dgabc.com.br/Noticia/4331534/censo-escolar-brasil-reduz-indices-de-reprovacao-abandono-e-atraso"
+    ]
+  },
+  {
+    "id": 134,
+    "n": 2,
+    "c": 1,
+    "a": "Educação",
+    "t": "Demos o maior reajuste da história para os professores, 33%",
+    "v": "Verdadeiro. Em 2022 o piso nacional do magistério subiu 33,24%, de R$ 2.886,24 para cerca de R$ 3.845, o maior reajuste desde a Lei do Piso (2008); o recorde anterior era de 22,22%, em 2012. Contexto: o índice segue a fórmula legal baseada no Fundeb, não é decisão discricionária do governo, e o reajuste de 2022 veio depois de um ano sem correção (2021).",
+    "s": [
+      "https://www.gov.br/mec/pt-br/assuntos/noticias/2022/valorizacao-de-professores-o-caminho-para-uma-educacao-melhor",
+      "https://www.cnnbrasil.com.br/nacional/bolsonaro-anuncia-reajuste-de-3324-no-piso-salarial-de-professores/",
+      "https://www.cnnbrasil.com.br/politica/fatos-primeiro-fala-de-bolsonaro-sobre-piso-salarial-dos-professores-precisa-de-contexto/"
+    ]
+  },
+  {
+    "id": 135,
+    "n": 2,
+    "c": 3,
+    "a": "Educação",
+    "t": "Mais de 1 milhão de crianças não têm vaga em creche",
+    "v": "Não verificável. O Retrato da Educação Infantil 2025 (MEC) soma 826.371 pedidos de vaga em creche não atendidos, mas só 2.181 dos 5.570 municípios informaram quantidades, e 306.578 pedidos vieram sem idade; não há total nacional de crianças sem vaga. Outra medida, do Todos Pela Educação com dados da PNAD Contínua de 2024, estima 2,28 milhões de crianças de 0 a 3 anos fora da creche por dificuldade de acesso (falta de vaga, distância, recusa por idade), o que vai além da fila formal. Assim, 'mais de 1 milhão' é plausível conforme o critério, mas não corresponde a um número oficial.",
+    "s": [
+      "https://www.gov.br/mec/pt-br/pnei/arquivos/retratoedInfantil2025.pdf",
+      "https://todospelaeducacao.org.br/wordpress/wp-content/uploads/2025/08/estudo-panorama-do-acesso-a-educacao-infantil-no-brasil-todos-pela-educacao.pdf"
+    ]
+  },
+  {
+    "id": 136,
+    "n": 2,
+    "c": 3,
+    "a": "Segurança pública",
+    "t": "Com a lei antifacção, chefes de facção vão poder pegar até 80 anos e cumprir a pena quase integralmente",
+    "v": "Parcial. A Lei 15.358/2026 pune o domínio social estruturado com 20 a 40 anos (art. 2º) e aumenta a pena de 2/3 até o dobro para quem comanda a organização (§ 1º, I), o que permite chegar a 80 anos de condenação. O crime é hediondo, sem livramento condicional (art. 2º, § 4º), e a Lei de Execução Penal passa a exigir 75% da pena para progredir de regime a quem comanda organização criminosa ultraviolenta estruturada para crime hediondo. Mas o art. 75 do Código Penal, que a lei não alterou, limita o tempo de cumprimento a 40 anos; logo, 80 anos é a pena fixada, não o tempo efetivamente cumprido.",
+    "s": [
+      "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15358.htm",
+      "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    ]
+  },
+  {
+    "id": 137,
+    "n": 2,
+    "c": 1,
+    "a": "Segurança pública",
+    "t": "A audiência de custódia foi criada pelo CNJ no governo de esquerda, quando era presidido por Lewandowski, ex-ministro da Justiça de Lula",
+    "v": "Verdadeiro, em essência. O CNJ incentivou as audiências de custódia a partir de fevereiro de 2015 e as regulamentou em 15/12/2015, no governo Dilma, em sessão presidida pelo ministro Ricardo Lewandowski. Lewandowski foi ministro da Justiça de Lula no mandato atual e foi exonerado a pedido em 9/1/2026. Ressalva: o direito de ser levado sem demora a um juiz vem da Convenção Americana de Direitos Humanos, que o Brasil adotou em 1992; o CNJ o implantou na prática.",
+    "s": [
+      "https://www.cnj.jus.br/aprovada-resolucao-que-regulamenta-as-audiencias-de-custodia/",
+      "https://www.in.gov.br/web/dou/-/decretos-de-9-de-janeiro-de-2026-680380932"
+    ]
+  },
+  {
+    "id": 138,
+    "n": 1,
+    "c": 3,
+    "a": "Trajetória, votos e eleição",
+    "t": "Flávio discursou na Alerj defendendo miliciano, deu condecoração a miliciano e empregou a mãe e a irmã do chefe do Gabinete do ódio",
+    "v": "Impreciso. Em 2007, na Alerj, Flávio disse que não se podia 'estigmatizar a milícia' (defesa das milícias em geral), e em 2008 votou contra a CPI das Milícias. Deu a Adriano da Nóbrega uma moção de louvor (2003) e a Medalha Tiradentes (2005), esta com ele preso por homicídio; o MP-RJ aponta Adriano como ligado às milícias de Rio das Pedras e ao Escritório do Crime. A mãe (Raimunda) e a então mulher de Adriano (Danielle) trabalharam no gabinete de Flávio até novembro de 2018. Erros na fala: foi a mulher, não a irmã, e Adriano é ligado ao Escritório do Crime, não ao 'gabinete do ódio'. Flávio diz que as homenagens se basearam em relatórios policiais da época.",
+    "s": [
+      "https://agendadopoder.com.br/internautas-resgatam-discurso-de-flavio-bolsonaro-em-defesa-de-milicias/",
+      "https://www.diariocarioca.com/2026/09/07/politica/flavio-bolsonaro-e-o-apoio-as-milicias-o-historico-e-a-defesa-que-voltou-ao-debate/",
+      "https://exame.com/brasil/ex-pm-estava-preso-quando-recebeu-homenagem-de-flavio-bolsonaro/"
+    ]
+  },
+  {
+    "id": 139,
+    "n": 2,
+    "c": 3,
+    "a": "Corrupção e investigações",
+    "t": "A Justiça já decidiu o caso da ilha, com trânsito em julgado, e ela nunca foi do Richarlison",
+    "v": "Parcial. A disputa judicial pela mansão em Angra dos Reis terminou favorável à empresa de Willer Tomaz: decisão de março de 2025, recursos sem êxito, incluindo no STJ, e desistência da Sport 70 (empresa de Richarlison e Renato Velasco) em agosto de 2025. Mas as reportagens não confirmam trânsito em julgado nem uma decisão de mérito de que o imóvel 'nunca foi' dele, e relatam a desistência como encerramento da ação. Richarlison afirma ter pago cerca de R$ 10 milhões e que a posse foi tomada por manobra judicial; Tomaz nega. A PF vai incluir a disputa no inquérito que já apura as relações de Flávio com Tomaz.",
+    "s": [
+      "https://bpmoney.com.br/politica/richarlison-flavio-bolsonaro-ilha-angra-polemica/",
+      "https://www.opovo.com.br/noticias/politica/2022/11/26/richarlison-destaque-na-copa-trava-disputa-judicial-contra-amigo-de-flavio-bolsonaro-entenda.html",
+      "https://www.cartacapital.com.br/esporte/caso-da-ilha-de-richarlison-envolve-amigo-de-flavio-bolsonaro-e-tentativa-de-censura-entenda/",
+      "https://cnnbrasil.com.br/blogs/jussara-soares/politica/pf-incluira-caso-da-ilha-de-richarlison-em-inquerito-sobre-flavio-e-willer"
+    ]
+  },
+  {
+    "id": 140,
+    "n": 2,
+    "c": 1,
+    "a": "Corrupção e investigações",
+    "t": "O sócio de Willer Tomaz é Eugênio Aragão, ex-ministro de Dilma e advogado de Lula",
+    "v": "Verdadeiro. Eugênio Aragão consta como sócio de Willer Tomaz no escritório de Willer: a parceria começou em 2017, quando Aragão abriu banca própria para atuar no STF e em tribunais superiores. Aragão foi ministro da Justiça de Dilma Rousseff em 2016 e atuou como advogado da Coligação Brasil da Esperança, de Lula, em ações no TSE em 2022. Ressalva: em 23/10/2026, o Metrópoles registrou que Aragão disse estar rompendo a sociedade, com a dissolução a ser protocolada na OAB-SP; segundo a coluna, ele detinha 0,01% do escritório e Willer 99,99%.",
+    "s": [
+      "https://www.metropoles.com/colunas/demetrio-vecchioli/ex-ministro-rompe-sociedade-com-willer-incompatibilidade-de-perfis",
+      "https://conjur.com.br/2017-out-17/eugenio-aragao-funda-banca-propria-firma-parceria-willer-tomaz/",
+      "https://agenciabrasil.ebc.com.br/politica/noticia/2016-03/dilma-escolhe-eugenio-aragao-para-o-ministerio-da-justica",
+      "https://agenciabrasil.ebc.com.br/politica/noticia/2022-10/campanhas-de-candidatos-presidencia-desistem-de-direito-de-resposta",
+      "https://www.metropoles.com/sao-paulo/advogado-de-lula-em-2022-defende-acusada-por-blitz-da-prf-na-eleicao",
+      "https://www.conjur.com.br/2022-ago-08/advogados-candidatos-prontos-duras-batalhas/",
+      "https://www.cnnbrasil.com.br/politica/ex-ministro-da-justica-eugenio-aragao-e-cotado-para-coordenar-grupo-tecnico-integridade-e-controle-da-transicao/"
+    ]
+  },
+  {
+    "id": 141,
+    "n": 2,
+    "c": 2,
+    "a": "Corrupção e investigações",
+    "t": "Richarlison comprou a ilha de um invasor de terra, do MST",
+    "v": "Falso. Richarlison diz ter investido cerca de R$ 10 milhões em 2020 pelos direitos de ocupação da casa, e parte do dinheiro foi paga a antigos posseiros; Willer Tomaz sustenta que eles não tinham legitimidade para vender, já que o imóvel é terreno da União. As reportagens consultadas não trazem nenhuma ligação desses vendedores com o MST nem descrevem uma invasão de terra. A parte sobre o MST não tem respaldo; a disputa é sobre direitos de ocupação, e cada lado dá uma versão.",
+    "s": [
+      "https://sbtnews.sbt.com.br/noticia/brasil/amigo-de-flavio-diz-que-richarlison-comprou-ilha-de-posseiro",
+      "https://www.correiodamanha.com.br/politica/2026/10/327944-richarlison-acusa-flavio-bolsonaro-de-tomar-ilha-em-angra-na-mao-grande-advogado-rebate-com-documentos-e-desafia-jogador.html"
+    ]
+  },
+  {
+    "id": 142,
+    "n": 1,
+    "c": 2,
+    "a": "Corrupção e investigações",
+    "t": "Flávio criou o banqueiro Vorcaro, e eu fiz ele prisioneiro",
+    "v": "Falso. A prisão preventiva de Daniel Vorcaro foi decretada pelo ministro André Mendonça, do STF, em 4/03/2026, a pedido da Polícia Federal, e depois mantida pela Segunda Turma; não foi ato de Lula. Não encontrei fato que sustente que Flávio \"criou\" o banqueiro, expressão de caráter retórico. O controle do Banco Máxima (futuro Master) por Vorcaro foi aprovado pelo Banco Central em outubro de 2019, na gestão de Roberto Campos Neto, durante o governo Bolsonaro, mas isso não equivale a ação de Flávio.",
+    "s": [
+      "https://noticias.stf.jus.br/postsnoticias/stf-atende-a-pedido-da-pf-e-determina-prisao-de-daniel-vorcaro-e-outros-investigados-por-supostas-fraudes-no-banco-master/",
+      "https://noticias.stf.jus.br/postsnoticias/2a-turma-do-stf-mantem-prisao-de-daniel-vorcaro-e-de-outros-investigados-no-caso-master/",
+      "https://www.gazetadopovo.com.br/economia/quem-e-daniel-vorcaro-e-por-que-o-banco-central-aprovou-seus-negocios/"
+    ]
+  },
+  {
+    "id": 143,
+    "n": 2,
+    "c": 1,
+    "a": "Programas sociais",
+    "t": "Uma dose de R$ 50 mil do uísque dá para pagar 70 Bolsa Família",
+    "v": "Verdadeiro quanto à conta. O benefício médio do Bolsa Família em janeiro de 2026 foi de R$ 697,77 por família, então R$ 50 mil cobrem cerca de 72 benefícios, compatível com \"70\". Ressalva: o valor de R$ 50 mil por dose é a premissa usada por Flávio e não foi confirmado de forma independente; o debate trata do uísque que Vorcaro teria dado a Lula, que diz não lembrar de tê-lo recebido.",
+    "s": [
+      "https://conexaoto.com.br/2026/01/19/bolsa-familia-chega-a-18-77-milhoes-de-beneficiarios-com-valor-medio-de-r-697-77",
+      "https://www.correiodamanha.com.br/politica/2026/09/322533-lula-diz-nao-lembrar-de-uisque-ligado-a-vorcaro-se-deu-ja-bebi.html"
+    ]
+  },
+  {
+    "id": 144,
+    "n": 1,
+    "c": 2,
+    "a": "Corrupção e investigações",
+    "t": "Flávio pegou R$ 134 milhões de Vorcaro, que até agora não apareceram",
+    "v": "Falso. Os R$ 134 milhões (US$ 24 milhões) são o valor que o lado de Flávio negociou com Vorcaro para o filme Dark Horse, não o que foi efetivamente pago; segundo a CNN, o repassado foi de pelo menos R$ 61 milhões (US$ 12,3 milhões). Uma auditoria da produtora apontou gastos de cerca de US$ 13 milhões no filme. A PF ainda apura origem, destino e beneficiários finais dos recursos, e Flávio é investigado, mas não há comprovação de que ele tenha \"pegado\" os R$ 134 milhões.",
+    "s": [
+      "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-dinheiro-de-vorcaro-para-dark-horse-era-licito-e-privado/",
+      "https://www.poder360.com.br/poder-eleicoes-2026/pergunto-de-vorcaro-e-voce-fala-de-bolsa-familia-diz-lula/"
+    ]
+  },
+  {
+    "id": 145,
+    "n": 2,
+    "c": 3,
+    "a": "Corrupção e investigações",
+    "t": "Segundo a Veja, um assessor de Padilha articulou investimento de fundos de pensão no Master, com R$ 10 bi e propina de 10%",
+    "v": "Parcial. A reportagem existe, mas se baseia em relato de Daniel Vorcaro numa proposta de delação, rejeitada por falta de provas: ele afirma que a entrada do Master na lista de instituições aptas (29/04/2024) teria sido condicionada a propina de cerca de 10% da captação, com meta de R$ 10 bilhões em fundos como Previ, Petros e Postalis. Olavo Noleto, então secretário-executivo da SRI, aparece como intermediário; ele e Padilha negam qualquer relação com Vorcaro. As tentativas de captação não avançaram, e a Previc informou que os fundos de pensão fechados não têm posições em ativos do Master. Tudo é alegação, sem comprovação até agora.",
+    "s": [
+      "https://www.tnh1.com.br/noticia/nid/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo/",
+      "https://www.gov.br/previc/pt-br/noticias/patrimonio-do-setor-de-previdencia-complementar-esta-preservado"
+    ]
+  },
+  {
+    "id": 146,
+    "n": 2,
+    "c": 3,
+    "a": "Corrupção e investigações",
+    "t": "Lulinha usou como endereço, na procuração dos sigilos, imóvel de R$ 15 milhões de Jonas Suassuna, sócio dele",
+    "v": "Parcial/Impreciso. Jonas Suassuna é de fato um dos donos formais do sítio de Atibaia, e reportagens indicam que o apartamento em Moema onde Lulinha mora há anos está em nome dele. Mas Suassuna é ex-sócio de Lulinha (Gamecorp), não sócio atual, e a defesa diz que Lulinha paga aluguel. Não consegui confirmar o conteúdo da procuração nem o valor de até R$ 15 milhões, que aparece como afirmação de Flávio e de Dallagnol sem documentos; relatos mais antigos citam outros valores.",
+    "s": [
+      "https://www.metropoles.com/brasil/flavio-cita-nome-de-jonas-suassuna-do-sitio-de-atibaia-e-o-liga-a-lulinha",
+      "https://ndmais.com.br/politica/deltan-dallagnol-aponta-endereco-de-lulinha-em-apartamento-de-r-15-milhoes-e-questiona-procuracao/",
+      "https://www.jornaldebrasilia.com.br/noticias/politica-e-poder/careca-do-inss-orientou-entrega-de-encomenda-em-imovel-alugado-por-lulinha/"
+    ]
+  },
+  {
+    "id": 147,
+    "n": 1,
+    "c": 3,
+    "a": "Trajetória, votos e eleição",
+    "t": "Ontem entregamos toda a papelada no TSE; a turma de Flávio não apareceu e, quando apareceu, disse que só entregaria depois de ver o nosso material",
+    "v": "Parcial. Em 22/10, Boulos e Camilo Santana levaram ao TSE as procurações para abrir os sigilos de Lula, e a campanha de Flávio mandou Deltan Dallagnol ao tribunal pouco depois, de modo que \"não apareceu\" só vale para o primeiro momento. A advogada de Flávio, Maria Cláudia Bucchianeri, disse que só traria os dados dele se a campanha de Lula trouxesse tudo e que primeiro verificaria isso, o que confere com o final da fala. Não confirmei que Lula entregou literalmente \"toda\" a papelada exigida.",
+    "s": [
+      "https://www.gazetadopovo.com.br/eleicoes/2026/boulos-camilo-entregam-sigilos-lula-tse-desafiam-flavio/",
+      "https://diariodonordeste.verdesmares.com.br/pontopoder/camilo-santana-diz-que-lula-nao-se-opoe-ao-que-flavio-sugeriu-para-quebra-de-sigilos-1.3800291"
+    ]
+  },
+  {
+    "id": 148,
+    "n": 1,
+    "c": 3,
+    "a": "Corrupção e investigações",
+    "t": "Com o mesmo salário de R$ 46 mil, Flávio comprou uma casa de R$ 10 milhões",
+    "v": "Impreciso. O subsídio de deputados e senadores é de R$ 46.366,19 desde fevereiro de 2025 (Decreto Legislativo 172/2022), mas a mansão de Flávio no Lago Sul custou cerca de R$ 6 milhões (R$ 5,97 milhões segundo o Poder360), não R$ 10 milhões. Do total, R$ 3,1 milhões foram financiados pelo BRB em 30 anos e cerca de R$ 2,87 milhões foram pagos de entrada, que Flávio disse vir da venda de um imóvel e de uma franquia no Rio. A compra foi em janeiro de 2021, quando o salário de senador ainda era de cerca de R$ 33,7 mil. A PF apura se as condições do financiamento foram favorecidas; não há conclusão sobre irregularidade e Flávio nega.",
+    "s": [
+      "https://www2.camara.leg.br/legin/fed/decleg/2022/decretolegislativo-172-21-dezembro-2022-793529-publicacaooriginal-166604-pl.html",
+      "https://www.diariodepernambuco.com.br/politica/2026/10/11725606-pf-apura-condicoes-de-financiamento-do-brb-a-flavio-bolsonaro-para-mansao-de-rs-6-milhoes.html",
+      "https://www.poder360.com.br/congresso/mp-investiga-emprestimo-do-brb-para-flavio-bolsonaro-comprar-mansao/",
+      "https://jornaldebrasilia.com.br/noticias/politica-e-poder/ministerio-publico-investiga-emprestimo-de-banco-a-flavio-bolsonaro-para-compra-de-mansao/"
+    ]
+  },
+  {
+    "id": 149,
+    "n": 2,
+    "c": 1,
+    "a": "Trajetória, votos e eleição",
+    "t": "Lula prometeu acabar com o sigilo de 100 anos e não acabou",
+    "v": "Verdadeiro. No debate da Globo do 1º turno de 2022, Lula prometeu um decreto para acabar com o sigilo de 100 anos. O mecanismo está no art. 31 da Lei de Acesso à Informação, que permite restringir por até 100 anos dados ligados à intimidade e à vida privada, e a lei não foi alterada. O governo continuou invocando esse dispositivo: segundo o Estadão, 1.339 pedidos foram negados em 2023 por conter dados pessoais (1.332 em 2022), incluindo a agenda de Janja. Em fevereiro de 2025 o governo dizia preparar um projeto para limitar o sigilo, e não encontrei confirmação de que ele tenha virado lei. Ressalva: um decreto isolado tinha limites jurídicos, como apontavam especialistas já em 2022.",
+    "s": [
+      "https://apublica.org/2022/11/entrevista-os-caminhos-de-lula-para-reverter-os-sigilos-de-bolsonaro/",
+      "https://diariodonordeste.verdesmares.com.br/pontopoder/quais-sigilos-do-governo-bolsonaro-podem-ser-desvendados-e-em-quanto-tempo-1.3296214",
+      "https://agorarn.com.br/?p=842013",
+      "https://portaldeprefeitura.com.br/bastidores-da-politica/lula-apresenta-projeto-para-blindar-janja/588710/"
+    ]
+  },
+  {
+    "id": 150,
+    "n": 2,
+    "c": 3,
+    "a": "Corrupção e investigações",
+    "t": "O governo pôs sigilo nas entradas de Roberta Luchsinger no Alvorada e nos voos do avião do Master",
+    "v": "Parcialmente verdadeiro. O GSI negou, em resposta a pedido via LAI feito pela coluna de Malu Gaspar (O Globo), acesso aos registros de entrada e saída de Roberta Luchsinger no Alvorada (jan/2023 a set/2026, segundo a Gazeta do Povo), alegando segurança de autoridades e vida privada, sem informar prazo. No caso do jato ligado a Vorcaro, a Aeronáutica negou um pedido de plano de voo citando o art. 31 da LAI. A FAB nega ter imposto sigilo a listas de passageiros, que seriam guardadas pelos operadores, e segundo o Poder360 (artigo de opinião) o plano de voo acabou sendo fornecido após a repercussão e a atuação da CGU. Várias manchetes falaram em 100 anos, mas o Poder360 aponta restrição de 15 anos. A intenção de 'esconder' é interpretação de Flávio.",
+    "s": [
+      "https://www.poder360.com.br/poder-justica/gsi-nega-acesso-a-registros-de-visitas-de-luchsinger-ao-alvorada/",
+      "https://www.gazetadopovo.com.br/republica/governo-omite-dados-acesso-amiga-lulinha-palacio-alvorada/",
+      "https://www.poder360.com.br/opiniao/voo-de-vorcaro-restricao-indevida-noticias-imprecisas/",
+      "https://atarde.com.br/politica/fab-nega-ter-imposto-sigilo-de-100-anos-sobre-voos-ligados-a-vorcaro-1405948"
+    ]
+  },
+  {
+    "id": 151,
+    "n": 1,
+    "c": 3,
+    "a": "Trajetória, votos e eleição",
+    "t": "Bolsonaro gastou no cartão corporativo quase 30% a mais do que Lula",
+    "v": "Impreciso, e o número de 30% não se confirma. Nos arquivos da Casa Civil (cartão da Secretaria de Administração da Presidência, mesmos cinco tipos de despesa), somei cerca de R$ 30 milhões de 2019 a 2022 para Bolsonaro e cerca de R$ 31 milhões de jan/2023 a jul/2026 para Lula, ou seja, valores próximos e, por mês, mais alto no governo atual. Já o Portal da Transparência, usado pelo Aos Fatos em fev/2026, mostra cerca de R$ 42 milhões para Bolsonaro (2019-2022) contra R$ 20,4 milhões para Lula (2023-2025), diferença bem maior que 30%. O TCU, por sua vez, contabilizou R$ 55,5 milhões na Presidência inteira entre jan/2023 e abr/2025. Os resultados mudam conforme base e período, e a maior parte dos gastos é sigilosa.",
+    "s": [
+      "https://www.gov.br/casacivil/pt-br/acesso-a-informacao/informacoes-classificadas/despesas-com-cartao-de-pagamento",
+      "https://www.gov.br/casacivil/pt-br/acesso-a-informacao/informacoes-classificadas/informacoes-classificadas-e-desclassificadas-publicadas-ate-23-01-2029-na-sg/despesas-com-cartao-de-pagamento-do-governo-federal-mandatos-anteriores",
+      "https://www.aosfatos.org/noticias/posts-enganam-ao-comparar-gastos-de-cartao-corporativo-de-lula-e-bolsonaro/",
+      "https://portaldeprefeitura.com.br/bastidores-da-politica/gastos-de-lula-com-cartao-corporativo-ja-superam-bolsonaro/601815/"
+    ]
+  },
+  {
+    "id": 152,
+    "n": 2,
+    "c": 3,
+    "a": "Trajetória, votos e eleição",
+    "t": "Eu nunca fui investigado por causa de envolvimento com milícia",
+    "v": "Tecnicamente correto, mas enganoso. Flávio foi investigado e denunciado pelo MP-RJ no caso da rachadinha por peculato, lavagem de dinheiro, ocultação de bens e organização criminosa, não por crimes de milícia, e não encontrei inquérito contra ele por esse motivo. Porém, em 2020 o MP-RJ afirmou que o miliciano Adriano da Nóbrega integrava o núcleo executivo da organização que atribuía a Flávio, e a mãe e a ex-mulher de Adriano constavam como funcionárias do gabinete dele. Flávio sempre disse desconhecer as atividades do miliciano. O STF anulou provas em 2021 e o caso foi arquivado em 2022. A denúncia do MP-RJ de março de 2026 contra o grupo de Adriano não cita Flávio.",
+    "s": [
+      "https://www.gazetadopovo.com.br/republica/miliciano-adriano-nobrega-integrava-nucleo-de-grupo-de-flavio-bolsonaro-diz-mp/",
+      "https://noticias.stf.jus.br/postsnoticias/2a-turma-decide-que-provas-contra-flavio-bolsonaro-no-caso-das-chamadas-rachadinhas-sao-ilegais/",
+      "https://www.mprj.mp.br/visualizar?noticiaId=215125"
+    ]
+  },
+  {
+    "id": 153,
+    "n": 2,
+    "c": 1,
+    "a": "Economia e contas públicas",
+    "t": "Os brasileiros estão devendo mais no atual governo",
+    "v": "Verdadeiro. Pelo Banco Central (série SGS 29037), o endividamento das famílias com o sistema financeiro passou de 49,14% da renda acumulada em 12 meses em dez/2022 para 49,86% em jul/2026, depois de cair para cerca de 47,7% em meados de 2024. Em fev/2026 chegou a 49,90%, acima do pico anterior da série (49,88%, jul/2022), segundo o Poder360. A alta recente é pequena em pontos percentuais, e dizer que a causa é o governo é interpretação.",
+    "s": [
+      "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29037/dados?formato=json&dataInicial=01/12/2022",
+      "https://www.poder360.com.br/poder-economia/endividamento-das-familias-atinge-maxima-historica-diz-bc/"
+    ]
+  }
 ]
